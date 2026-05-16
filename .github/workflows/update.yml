@@ -1,0 +1,43 @@
+name: 🔄 每3天自动更新富豪家族新闻
+
+on:
+  schedule:
+    # 每3天 UTC 02:00 执行（北京时间10:00）
+    - cron: '0 2 1,4,7,10,13,16,19,22,25,28,31 * *'
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: 📦 Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: 🗞️ Generate news page
+        run: python scripts/generate.py
+
+      - name: 📤 Commit and push
+        run: |
+          git config user.name  "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add index.html data/news.json
+          if git diff --staged --quiet; then
+            echo "ℹ️  No changes to commit"
+          else
+            git commit -m "🔄 自动更新新闻 $(date +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
