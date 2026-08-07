@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026年08月04日 05:17 UTC",
-  "total_articles": 94,
+  "generated_at": "2026年08月07日 04:27 UTC",
+  "total_articles": 96,
   "families": [
     {
       "family": {
@@ -21,10 +21,10 @@
         {
           "title": "Court freezes $1.8B bank account at center of inheritance battle between Chinese beverage giant Wahaha's heiress Kelly Zong and half-siblings",
           "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNSFo4YkdTVkFneVJYbEZDNG40TzQyb2NhajJha254UzVaLWVPMGZPRTBsS1liQ3FOM01lYkJkcm9CbkI0Q1NvVlFWeTF6bUdQTjlVdE53dFBDaFY5RmkyWERfNGg3czlPbmt1STlqQ0I2Y01UREdWdUp4alRVc0FDY2huUDRuZXBpMlBJZ1dyMThPdDUxcEdCNkVLZk81WFZfdXBvMmlpM1ZOQkEzb0xQVUtWN1lRXzlRRVBzUEpyczFNNVhIQWZGLTc2clZCSGlIUW9LdDdDUC04eHJrUmdVVy1uUkdTY3dseWFuc2kwV1pGTDF0UFVEWUcyVnhtV0o4dnZNYjRfeGtEYTgxT0xvWjhoQU4zbUJqQkhjMG1DdWcyQjRNSVFYN3UwQmk?oc=5",
-          "source": "VnExpress International",
+          "source": "e.vnexpress.net",
           "date": "2025-08-02",
           "date_raw": "2025-08-02T07:00:00",
-          "zh_title": "中国饮料巨头娃哈哈的女继承人宗凯莉与同父异母的兄弟姐妹之间的遗产争夺战导致法院冻结了价值 180 亿美元的银行账户"
+          "zh_title": "中国饮料巨头娃哈哈的女继承人宗凯莉与同父异母的兄弟姐妹之间的遗产争夺战导致法院冻结了价值 1.8 亿美元的银行账户"
         },
         {
           "title": "Hong Kong court freezes US$1.8 billion HSBC account in Wahaha inheritance fight",
@@ -257,12 +257,12 @@
       },
       "articles": [
         {
-          "title": "Who is Mario Ho, casino mogul Stanley Ho’s heir and Asia’s youngest founder of a Nasdaq-listed company?",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOREotTHNRWFFFZ2dTRzItNlVQem0yTDVIN0RCVkhIci1aSmFmVzM3dGZSM0UwZHhCOHJ3QVUxZlJ3Z0FQckZiSlVxMXgtVUV5dGhJWFdMVlBxMWdDU3JacHR1WGVfaUdfRWc1akc4VjFoSmdfMWhSYTVyWVlIaFdOZmwtemdEWnRDbHZMZXV6My1RVGoxcDl4LVlKNUFqMFRvRHlvdkZub3dIcWpXaW44d25oOVJjYmdhM2ZOaHEyRENvMTZjdncxZEZiZk1Ua1pjYnBIZVJqZG5oY21VbjlnN2JZNTZvN2JUclpuUmNXR2QyeHly?oc=5",
-          "source": "VnExpress International",
-          "date": "2024-09-24",
-          "date_raw": "2024-09-24T07:00:00",
-          "zh_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+          "title": "Casino tycoon Stanley Ho’s 17 kids find their own paths to fix complex family ties",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUZaMkItUWx5TXRxeF9COHpjdzVodXktMUVTZEdydkFnbzlMQ09YZUFfSzRiRVJpbzM1bjdxZUU5ZUpnaGg0REdIZWNKdVlybnNENlVVUWhfZFhTY1ZJdUpweUExNlR2LU9IRDlnZHV4YmZ5Rno2TFNPV1hBWkp5S0lRM2lqLW9HZmJvMGdGal9SeW9BNFVDNWNQUFpXcWRKenFiem1XbjFEWFM3NUgtZmNlMzNuMmxDYWpwTWEzOVBiM0g5aDhsTTh3?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "date": "2022-02-15",
+          "date_raw": "2022-02-15T08:00:00",
+          "zh_title": "赌场大亨何鸿燊的 17 个孩子找到了自己的道路来修复复杂的家庭关系"
         },
         {
           "title": "Macau casino tycoon Stanley Ho dies at 98",
@@ -270,7 +270,7 @@
           "source": "The Business Times",
           "date": "2020-05-26",
           "date_raw": "2020-05-26T07:00:00",
-          "zh_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+          "zh_title": "澳门赌场大亨何鸿燊去世，享年98岁"
         },
         {
           "title": "97-Year-Old Tycoon's Kids Race to Revive His Casino Empire",
@@ -278,7 +278,7 @@
           "source": "Caixin Global",
           "date": "2019-02-21",
           "date_raw": "2019-02-21T08:00:00",
-          "zh_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+          "zh_title": "97 岁大亨的孩子们竞相复兴他的赌场帝国"
         },
         {
           "title": "Four wives, 17 kids and the fight for a $8.4b casino empire",
@@ -327,7 +327,7 @@
           "source": "South China Morning Post",
           "date": "2019-05-22",
           "date_raw": "2019-05-22T07:00:00",
-          "zh_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+          "zh_title": "鹰君女族长在房地产巨头控制权争夺战中落败"
         },
         {
           "title": "Great Eagle Holdings matriarch praises son she’s feuding with",
@@ -335,7 +335,7 @@
           "source": "South China Morning Post",
           "date": "2018-06-04",
           "date_raw": "2018-06-04T07:00:00",
-          "zh_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+          "zh_title": "鹰君控股女族长称赞与她不和的儿子"
         },
         {
           "title": "HSBC hits back at claims of favouritism in Great Eagle dispute",
@@ -453,6 +453,14 @@
       },
       "articles": [
         {
+          "title": "Should Hong Leong Finance join Quek Leng Chan’s financial empire to boost its prospects?",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWRXd2lwOG0yWk84WmpVeWtmM0VObkhtOVhuSThWU21TcWFvT3E0QktTWVkzTVlHOGNJMXdZZk9HZVdKTkFfSjQtd0o2ckhMNWdYcFZOMFU3b1g0bUxGTllyNjZYRkpNMlBPcmNFYUlab0szNjNmM2RpNWxlUUpGQVBsRzhTY1BYNkJ1b0VZNUlqNENSVjNoM2ZvRXY0VjJVd2QwMC16c2hNSjhLNzd6WF9KM0RGQ3lZZUVpZ2hGS09yZXNEQ2MtWjFQN3F1UQ?oc=5",
+          "source": "The Business Times",
+          "date": "2025-04-08",
+          "date_raw": "2025-04-08T07:00:00",
+          "zh_title": "丰隆金融是否应该加入郭令灿的金融帝国以提升其前景？"
+        },
+        {
           "title": "CDL’s future under scrutiny; HPH Trust jumps after CK Hutchison sells port assets to US",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdzFNVkFyWS1uUEhlaXVoc2RSUURjREVOVXhRMU1YUGstTDVKV2EtZ3VEelp6NmNPbUdHaUlLb29lQy1qTUNDZXRKSjg2Z01DNFM1eUhVVWp4RE5MandFMlZOWko5LVZRMkJBdl8wS0ZQSVhfTEZqeXo2OUxoVkcxaWh4ckU0aXFGZWJCRmp6VHY3VHlWeXZyUngyeTZQT0FHX0N2LURtSU5rSENqaDlQM0pkVXpGVVcxbWx2RXBfRlhXU0U1TDVLMA?oc=5",
           "source": "The Straits Times",
@@ -461,36 +469,28 @@
           "zh_title": "CDL的未来受到密切关注；长和向美国出售港口资产后，HPH Trust 股价上涨"
         },
         {
-          "title": "Dynasty: Who’s who in the Kwek family tree behind CDL, Hong Leong",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHQ4Z2hyNllTYnhrZlNNVDRGa3AtV055czlDVnlvUHlGbFJNbFYyQ0ZJSFBiank0MWptQjJrN2pQbHJRMWJwX0ZtY1NMbkNlVmkyWDZTNzU1U0txYXo4TE9vQjhxRHpUSHlncVdXenQtajBrcDFjanA3ckgxV0ZmMUc2MHJudno4WDd2aENPODNacTBWdWljYTQzYkg4WjNQZDVkRk1TY1lwUQ?oc=5",
-          "source": "The Business Times",
-          "date": "2025-03-01",
-          "date_raw": "2025-03-01T08:00:00",
-          "zh_title": "王朝：CDL、丰隆背后的郭氏家族是谁"
-        },
-        {
           "title": "Son fires back at father as Singapore’s billionaire Kwek family feud heats up",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYnkwVjRRdzFobTl6RlpPTXNpQVFjSWVwYTI0TWhtNEJQS2N5b2F5NUxvSWJiWVd6V2tpdkhzdVZWbGM2WlV5SnNHVXNNZGN3LXBjVVRnYkMyTzRpLWdUSHNYUDJkTkJpSzZPbUlsaHFPalFuT3I1d2QzNkF3NjgtZ3MzeHhsaEFvTWRlcDJtMFhGWTBjTTY0RHFOYVlzYU5JS29PRHFxcmN5MDJ5ZmFXVlppVW95UmwzVDNFOXNDZkpOZ0xkaWNlOGlQNXUtbDFtM3BfMUMzdjh0SVHSAdsBQVVfeXFMT2YxMGZmY1Zmc3lyMnZESktwS1ZoQThFNU9laGhIdlI2YjhZbmlIa0FYa1RMSDJDYUYtUFZIUkhYcDNweG1iRjRkZ1h2TXlLamZld1dmUXNvaklSVnh2bi10STQxbmJsczI3NDJ4bnV1ZnlEclduNVRUcTUzS2ZhNmluVTRtVUU4N29oU3N2UnVNcUd6ZG1DeklUdlZxR1ZXSjE1VmhFMngxd21DckNGeElvaHpmNUdGRlZIWVo1OFdFaFhSN2I3NXBQa2trYkUzMGpoMUctdVo1ZmpN?oc=5",
           "source": "South China Morning Post",
           "date": "2025-02-28",
           "date_raw": "2025-02-28T08:00:00",
-          "zh_title": "新加坡亿万富翁郭氏家族不和加剧，儿子向父亲回击"
+          "zh_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
         },
         {
           "title": "Family disputes rock $18B City Developments empire of Singapore’s 4th richest man Kwek Leng Beng",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQWViRzZINVhIaHl6dEYwM0dYQ3U0clVzUlZVSTM0dllMeEQtYmMzNHZmSmNOSXh1bUhNdU54Uk11cmFfOG5aMURkaUtRRUR0aERNVlZXX3Y4V2xKd1RfTGhEQkFUZTV6MnE2cUVaU1hJUE5raC1mNGdWd0Rwa1NSTnFaei1xWklWUWZXWlJzLUh4enNKM05DR29UdXE2anNoZEdPQWZVcTEtcWhTYl9FR1VEbnZNY3diLUc0a1ZIM1pocFhIaHQwcXNjZURvUEVuTWc0dDZ1ZWI1SjJPYldGSUF0Z0l2aXRnbHZXZw?oc=5",
-          "source": "VnExpress International",
+          "source": "e.vnexpress.net",
           "date": "2025-02-27",
           "date_raw": "2025-02-27T08:00:00",
           "zh_title": "家庭纠纷动摇了新加坡第四富豪 Kwek Leng Beng 的 $18B 城市发展帝国"
         },
         {
-          "title": "Kwek / Quek family",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nZHhVRnhwVk9SV25nRUVJQXIxb3VxVXNpSkx0MXppSkdLUzF4eGsyV1N1eFR5dXVGcWdPLTU0X19uLTRyXzNkb25INzhUaVBySlpj?oc=5",
-          "source": "Forbes",
-          "date": "2016-07-27",
-          "date_raw": "2016-07-27T02:07:12",
-          "zh_title": "郭/郭家族"
+          "title": "Father-son feud plunges Singapore’s richest family into crisis",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORUZKZVVBX3ZIUk9pXzlqb2FfYmJxU1lvSWRWZnhfcnluZ1JIcUFzc3ZOWG50b2RVWFg3ZjJKdmY1bFAwdS1Mb0plTlZ1aEtTYl94aHpFWWtySTlnQnpXblNYbmN3N0tqS2R1djZXUmZyS0JYaDcyMnFmVGFVejNHQkdkQ0hYenFFUFdLSE1QRHVTRTM4V1hrcDVZSExBSTZfSURZWndhZ0RjSTZmakE?oc=5",
+          "source": "Crain Currency",
+          "date": "2025-02-26",
+          "date_raw": "2025-02-26T08:00:00",
+          "zh_title": "父子不和令新加坡首富家族陷入危机"
         }
       ]
     },
@@ -526,36 +526,20 @@
       },
       "articles": [
         {
-          "title": "Scion of Singapore’s Richest Banking Dynasty Buys Mansion for $29 Million",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcm9pLXlXcUxaUHB4dFdoc3Vua0FBR05pUEVNbjRqSGZoRHJ0QlhyeGlzdnVVZktVSmVDRnBsLVU4Nmd4ZklSbjBQR3ZaRFZkSDZUZ0lpSEFERS15cG4wakg2VWdnSWd5NmFwb0pUUmtYb3hFWFF6Qkt2N2ttNUViNVY3aENzWElJRGFyX1c0LTJlQTViNFMwaWZXVlNzSTZTV3ljUDYwNGh2SkltUHMtY0cwOXMxLXNPNXM5MjRyVXVjVG1WRlE?oc=5",
-          "source": "Crain Currency",
-          "date": "2024-04-03",
-          "date_raw": "2024-04-03T07:00:00",
-          "zh_title": "新加坡最富有银行王朝的后裔以2900万美元购买豪宅"
-        },
-        {
           "title": "Dynasty Behind UOB Ponders Future Governance – Report",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ2NvbzZwWFF3QXAzNEJGQmtKb1o0ZFRTeVAzMjVVcTZEWDBYOGl3bEZ5MUF5ZjBPU3E5Y0ktUDVVYVJSMnotNGM3OW00RXRLRzNWREhuYlQ5UXpycG9scl9QQW44Rk9OUWtqTDVaVjJsVS1wV1NScjNPUGZoZW12MXRZR0Q4aUdaRGV5bHp0eDAzWlpfRG1YTGVsV3pnYl9YVWc?oc=5",
-          "source": "Wealth Briefing",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRDYwOUlwMU4zdnhJSUNHOUs2LXdaM2hKOFdIVnBOLWg3RUstOU5jM0ZNNW1HN3phN3Ffb3lOeDNldk5ReEk2eHhxV2hqUWdrU1dEU3JNdXd0UnN2dS1PcTYtZWNYQU1sWjVocTZkWlowNWtYbVVpbWc1MlZ0SWI2bzlKTXVqMWEzR1hoQ0hUWkluZG1nNVhTcXE3Qkhxemo2Y08tQ3lSWVdYWXJUODZ3YlpNdEUwdkhocHc?oc=5",
+          "source": "Wealth Briefing Asia",
           "date": "2024-03-01",
           "date_raw": "2024-03-01T08:00:00",
           "zh_title": "大华银行思考未来治理背后的王朝——报告"
         },
         {
-          "title": "UOB’s Wee clan, Singapore’s richest banking dynasty, grapples with succession",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVlZTeUxhSHZVSnZaQXM0bTlsRTh1RDVockNIVzFFYUsxcG9DR0MyeW9HUWRNcXFmUzJEOFM4UDJNNjRhbWJ3NnhDZjJjVnp4MjhlMksyQmpjdlFJNHBnMjU1RFZudWE2T0V0UXBhc1V4OFlCanNVdlAtVmlRQVMyMnVET1Q5MTk3ZUZ5ZEtPZ2xfR05oWHJ5UVI5TGt4TDMzZ3hudXJKbi1PWnVkay11RGR0emxJNVJxNUkwQVpwck5xVWF1YXdJdVpDVThqRjRuR3ZTVUUzRjdFUQ?oc=5",
-          "source": "The Business Times",
-          "date": "2024-02-29",
-          "date_raw": "2024-02-29T08:00:00",
-          "zh_title": "新加坡最富有的银行王朝大华银行黄氏家族面临继承问题"
-        },
-        {
-          "title": "Remembering Wee Cho Yaw – banker, community leader, mentor",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGswWE1KX1cxTlpwZVAzTDM1TlU1eUFOWHlYU3lmZzVURG1oY1BwdmJwWGNuT00tVG9US2R4T0doUjNnVkdvTWFuTkRsNlYzRWdrWEtQc3BTVTJYVFl4ZC1iTHNkU2U5MmxLMWdkbHg0SHozaFp2RzdCWDRjd09ra0YwYlFIbHh2Q2tIMU95REN6QXJxUzEwUw?oc=5",
-          "source": "The Straits Times",
-          "date": "2024-02-07",
-          "date_raw": "2024-02-07T08:00:00",
-          "zh_title": "纪念黄祖耀——银行家、社区领袖、导师"
+          "title": "Wee Cho Yaw, billionaire was one of the last of Singapore's 20th century banking giants, dies at 95",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTnZlSU04MGpxa0p4REdKdEJIZXpTT3FoSENKeTlBdGtMOThPXzJxeU9vNW43Vlptdk1VQXhOY3FnaDh3VWRFdGoyNjVMVkpxelloVVM2Y29TeFpGSFZWbnl5ZVU0SGhVdG5wRHZCQ3pac1NPeDZQejU5bWIwNnBVNUhCZHJ1bHpkUVFtdjFlV1BtN0lGYTA2ZXlmTQ?oc=5",
+          "source": "Fortune",
+          "date": "2024-02-04",
+          "date_raw": "2024-02-04T08:00:00",
+          "zh_title": "亿万富翁黄祖耀 (Wee Cho Yaw) 去世，享年 95 岁，新加坡 20 世纪最后一位银行业巨头"
         },
         {
           "title": "Singapore banking: Inside UOB’s new era",
@@ -563,7 +547,23 @@
           "source": "Euromoney",
           "date": "2019-07-22",
           "date_raw": "2019-07-22T07:00:00",
-          "zh_title": "新加坡银行业：走进大华银行的新时代"
+          "zh_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        },
+        {
+          "title": "UOB chief says 'why not' let an outsider succeed him",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUWpOeGZ1YUEzUF9rdHVVcDRmTDQ5ZnNMVmFxWXE3UWwtdFFvejdxbnZ6bjVjbzZtZ25WODFGeXRzbHZmVEJ6dUt4Y3dhallnaVlWUG5YRXhTUDhqU3ZwY0hKTWRFbWFTV0dwTm54dmpueFgtTnpOdEZfa3FBaUE5bUJ2YktiMGlIVzNSbzlDQ3dsUE9tRi1UOHNjSHJ6RXc?oc=5",
+          "source": "The Business Times",
+          "date": "2019-05-31",
+          "date_raw": "2019-05-31T07:00:00",
+          "zh_title": "大华银行行长表示“为什么不”让外人接替他"
+        },
+        {
+          "title": "PM Lee Hsien Loong at the 80th Anniversary Celebrations of the United Overseas Bank",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUlCT2ZMX1hrdlNvZFN4eHRueXBYcWQyZi1Xd25KZDZMMmJJN19pc290NnU5dmt2Wk5nd3BiNS04dmRTbXpJQ2FDa1RDODFtbFplckNzcURHb2puVnEzRjhWQlRlQm9CZFZ3RHQ5ejB1cWZ4SDNxaGp2WjU4V2ZBSWl4VXMybFlEOEpqNTYxMWM1c3MxNXdrQXdkUWFkU0F2RnpKemI2SzJWcGh1T01uc3g4V01jUHYzeXc?oc=5",
+          "source": "Prime Minister's Office Singapore",
+          "date": "2015-11-12",
+          "date_raw": "2015-11-12T08:00:00",
+          "zh_title": "李显龙总理出席大华银行成立 80 周年庆典"
         }
       ]
     },
@@ -609,7 +609,7 @@
         {
           "title": "Sinar Mas Group: Freddy Widjaja's Claim Regarding Inheritance, Does Not Have A Legal Basis",
           "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9QeHhJQ3Vpa0JvWENLWHFmVHBGb0NESUJaMGJZR3VoY3lIMndOb2NqM1NrSGVnTjZwSDlnN1NHOGnSAT9BVV95cUxQUUxnOFAzUlFSenJ6UHNWbHV3al9VZERzeGpEUHFBblZYNy1aQVVWMUlVN0ZqTTlIRlV2N2o4NU0?oc=5",
-          "source": "VOI.id",
+          "source": "VOI.ID",
           "date": "2020-07-15",
           "date_raw": "2020-07-15T07:00:00",
           "zh_title": "金光集团：Freddy Widjaja关于继承权的主张没有法律依据"
@@ -656,12 +656,12 @@
           "zh_title": "儿子崛起：Anthoni Salim 的商业价值观 —"
         },
         {
-          "title": "The Bamboo Network: Asia's Family-run Conglomerates",
+          "title": "The Bamboo Network: Asia's Family-run Conglomerates - strategy",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3VVJoUHNscWRjYmZBRWRKUUJ5azBwdl9fVHpCNHhQZWQ0Z3UxMVBtNU03Nksyd2g4anVseWY0WWRLekVCX3JUNEttRjFGamJuSWptSlgwSU5HQQ?oc=5",
-          "source": "Strategy+business",
+          "source": "strategy-business.com",
           "date": "1998-01-01",
           "date_raw": "1998-01-01T08:00:00",
-          "zh_title": "越竹网络：亚洲家族企业集团"
+          "zh_title": "越竹网络：亚洲家族企业集团 - 战略"
         }
       ]
     },
@@ -715,7 +715,7 @@
         {
           "title": "Lawyer claims ‘no knowledge’ of full asset value in Malaysian billionaire Lim Goh Tong family will dispute",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdWRuT054czUtYlhKZGN3aXZ1UGJiZzVwS21JdE5pQXg4NVNINENabjdsNG1RYzljY2RacjJXTDhRa2lFZVczRXcwX29UNE9ISHI2OUo5RExGVldjYVFVUm10VUZSVDQ3NFpnYlIwa1RWR3E0cGVkeGY2b2lJc0E3OFdDbFNhQl9LaC1qWUY4dXBQYkZWZ3NwWU9Fcmt2ZTMxUkpSQUxVY0RuNkFlS2Y2VWNOUkxTRGVrcW9zN1JvcGo0SDZiLUdjdWVWXy1XQ1BEVXBHU3JJaHhPLXRGcEV4NlhWZ29Cdjc4YVBEVDJFbUJqYlR2WWxyeU8xdmU?oc=5",
-          "source": "VnExpress International",
+          "source": "e.vnexpress.net",
           "date": "2026-04-26",
           "date_raw": "2026-04-26T07:00:00",
           "zh_title": "律师声称“不知道”马来西亚亿万富翁林梧桐家族的全部资产价值将产生争议"
@@ -723,7 +723,7 @@
         {
           "title": "Lawyer denies involvement in alleged ‘suspicious circumstances’ in $410M inheritance dispute within late Malaysian billionaire Lim Goh Tong’s family",
           "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQUFZoMzRNU2Z6Qm9Hc25rcXNSZl9LUk4wR1FuaHRhVmF0djdVNm9SdU1nMEI4R0RjbmU1MkdqdkhqVTkzQVdGdFRBTHJWU3owR3NOTWJqUDdEcG15V1didnBOcHRXdVhKVkpwck8xRGRVNldiZW1MckFtcXdWOV93VDh1SEUxZ2ZubjJHSXFucDVQOUF4VU4zLUs0UHEyXzRsNU8xZG5JLWRMVFRaUGtQU210VTJlcFZRd2oyZHhZYXNYbF9jWEhLU3pieWVaWVAtWlA5V1hCM2tSYXhwNVNfSS0tbkhWQlN3THNPM2pyQVpramV2NVo0SEtTeGkzMFh2YzBYai1Lakp1TXc5YmtpTTliejZNdl9IWUpPdDFmaWFnNWQ2UTBFWVllaDJRR19PWnhR?oc=5",
-          "source": "VnExpress International",
+          "source": "e.vnexpress.net",
           "date": "2026-04-23",
           "date_raw": "2026-04-23T07:00:00",
           "zh_title": "已故马来西亚亿万富翁林梧桐家族 4.1 亿美元继承纠纷中，律师否认涉嫌“可疑情况”"
@@ -735,6 +735,14 @@
           "date": "2026-02-27",
           "date_raw": "2026-02-27T08:00:00",
           "zh_title": "云顶王朝面临继承之战"
+        },
+        {
+          "title": "Genting inheritance saga gets murkier with new RM1.6bil lawsuit",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRW03aUVjM21MQzlmMGZnY1RKYnh0QURUUnY5dTdnVXdTYUQ2aEVJT2pYZTB4UnlyOWJKNXN5RW93eXFMMnkya3IwNEotTU1BV3VhdEdpWlhETWJFQTI0SUdmSUhqQ0Y5UTh1WXpBbGF6S2t2N3BYcGRqWk4wdjNjRnJTZ2hzTzVWUm5jZmJnRjB6NnNRNGV5aWNOSmxMcTB6LVBYa2hINTQwX0lka1pPa2Q2STgzejB1eERXX0dSTTROcFA3SlE?oc=5",
+          "source": "Free Malaysia Today",
+          "date": "2023-06-01",
+          "date_raw": "2023-06-01T07:00:00",
+          "zh_title": "价值16亿令吉的新诉讼让云顶遗产传奇变得更加扑朔迷离"
         }
       ]
     },
@@ -800,6 +808,14 @@
           "date": "2024-12-02",
           "date_raw": "2024-12-02T08:00:00",
           "zh_title": "东南亚家族企业为下一代继承奠定基础"
+        },
+        {
+          "title": "Malaysian Tycoon Lee Shin Cheng Dies At 79",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkRYSDdlT3RjRDlOVFhCUzJtcUJyOXhCeHE2NzVTRjZVakx4OUtOTURhT1VCOUcwVWNCVHdhMXMxOFo5cDh6VWZSeGIyamZHcDRHaGlveWg2RnFBcElSMWJ4blVBdHFlTS1UemNGdk5tTkNxc0s3WXV1RHhvLTFEYjl5N1hvT0kxVkFDNHFGY2dSYTA0N2prUU1FaEY?oc=5",
+          "source": "Forbes",
+          "date": "2019-06-03",
+          "date_raw": "2019-06-03T07:00:00",
+          "zh_title": "马来西亚大亨李新正去世，享年 79 岁"
         }
       ]
     },
@@ -825,14 +841,6 @@
           "date": "2025-06-19",
           "date_raw": "2025-06-19T07:00:00",
           "zh_title": "我从 2025 年大众银行年度股东大会上学到的 12 件事"
-        },
-        {
-          "title": "What’s the game plan post-Ananda?",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVUszdXp0TTFCNFl3d2VhSTk0MDl1ZnJKZzZsTG5FWnlrQXczc1NYT1NWZDFiOUpHbWFKcGhrQXBjN0VXekhTODdSbUdFWThsQUpkZjV1Ym1NbjFCUjlqWkFKckJEc2l4QUFtajZsQ0JQb0UyQ2d0SzlDMDlHalNya1NUV09SUEFvTVo0ME52SQ?oc=5",
-          "source": "The Star",
-          "date": "2024-12-07",
-          "date_raw": "2024-12-07T08:00:00",
-          "zh_title": "阿南达之后的比赛计划是什么？"
         },
         {
           "title": "Cover Story: Future of Teh’s stake subject of speculation, but bank has solid foundation",
@@ -868,12 +876,20 @@
       },
       "articles": [
         {
-          "title": "Vietnam Abolishes Death Penalty For 8 Criminal Offenses - The Diplomat – Asia",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUM3WXdxZEdHaWdQaHhvT25wWWtjczRER2ZRZ0FhVm94enJlOFRldWduVE9yUVV5eGFFVDBGamNIV29VWlVZdC1FWmdMQTFyNHB5ZU01MnpFZl9UTWExT0dDV1JUb1BjNGI5TmM2dzNESTdWSWF0Ql93d0VzMTQtOHg1dmowNVFKMUsxa1dyeGkzUQ?oc=5",
-          "source": "The Diplomat – Asia-Pacific",
-          "date": "2025-06-26",
-          "date_raw": "2025-06-26T07:00:00",
-          "zh_title": "越南废除 8 项刑事犯罪的死刑 - The Diplomat – Asia"
+          "title": "Who is Truong My Lan, the Vietnamese real estate tycoon behind one of the world's biggest banking scam",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQZ21pMEJOcFJXMG96Nks3aTFaVHpYVk9DTTVWaVlqclhKU2hEU0JUVVpPU0pkU3hRUEJRaVFURWpLVF8xTS1xTW96QlA0V05jQ3EzaHZYQy1FSlFLZ3JTZzhWRC0xMVhWRnNrV29kUVR0bEQxZDBHU2pKZXk0NWxmUXVDSkI4RGhfMGRkNDJnSU82blU2b3VPNmVDa3BEX0daeDB4VnhpRUxIOXB3M2JidUFhVW9SVGVEdHl4WUFUck9WVUxZRHJjX05HWllwU2NGdzU4MzBxdUEwN21OampYSjhlY3ZXOEl6U2hUb3hVenBGTUpPODdyNTZpd2tuWHJORlpUak50VGVKRjZOdUxYT05HRFl6Z9IBmwJBVV95cUxPWkV4ZklPTVpPTXV3QWpnWWZTSmRKWV8wQjFzMmhXOVdTUGFpeV91TDBVa09kaHlaUU8wYzhUeW1DMXplNmRaM1dScm4xejRuWlJuYkNHeVp4LUNFTkdvTHlfVDRtLTdsLXhGUHpqdWVQRXlVR1VtOU5SZTdVNFNFWk5KcHV4bXF4OS1XV3hqcG1GTHU2c2FXOC1lemNtZFJfcnR6aERjTTlzUGgxcDRWZ0hDRjBCa19LSUNDNFBGejV1TUhHVGpPbWE3NFgxMkpPWExUQjBWZWJ2TzhVQWpFZU1TSXZsMl9COTRNTVBnaXY4YVJvNHNWMEtTVE4xWEZpdUdTUVJENTFPZ2pqaFFTSUg1QnMzZFNZV0hV?oc=5",
+          "source": "The Economic Times",
+          "date": "2024-12-04",
+          "date_raw": "2024-12-04T08:00:00",
+          "zh_title": "谁是全球最大银行骗局之一的越南房地产大亨张美兰 (Truong My Lan)"
+        },
+        {
+          "title": "Vietnam court upholds death penalty for property tycoon over fraud scandal",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3o2SDJHMzFPMm9uUkxJVzNJNllERkJTdHhndmk1cFZvUkRsVTZBMUR1MFNaZ1F6UVBVZXNXYVlqcTdBejRodUwtLU1VeG5yOUotdnd1cGhoX0otbXVMUmc4WDY3MVdyVll4MnFxd1dMVlhHRWlXbzliTHpFN1dNdERjVU41U2lvVzJRWUJjV1NES093Zzc0SGR3UkhkbW1D?oc=5",
+          "source": "The Straits Times",
+          "date": "2024-12-03",
+          "date_raw": "2024-12-03T08:00:00",
+          "zh_title": "越南法院维持对欺诈丑闻的房地产大亨的死刑"
         },
         {
           "title": "Truong My Lan: Vietnamese tycoon loses death row appeal over world's biggest bank fraud",
@@ -882,14 +898,6 @@
           "date": "2024-12-02",
           "date_raw": "2024-12-02T08:00:00",
           "zh_title": "张美兰：越南大亨因全球最大银行欺诈案而被判死刑上诉失败"
-        },
-        {
-          "title": "More real estate related to convicted property tycoon Truong My Lan frozen",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXRQX0lPY1JCa3JwQ203VTlVUkh3N0JCVUV4UjM4UjIzM0dOQjVPcTY2YjN1alJMdk96R3MtcnZNVUVTTEYwbHFVVW44bnlJMFoxRVJwbjkyV0Nzc3hhWEp3MlVwejJFd3ctYjdyQl9rVl9CV05Uay1LQ3k0aGc5eUNjYXRJc0lrZmc0VlJLSzBaaWVHNE56Zk90X2tyYjhhWV9kQ3p0MU90SEtsU1E?oc=5",
-          "source": "Theinvestor",
-          "date": "2024-06-08",
-          "date_raw": "2024-06-08T07:00:00",
-          "zh_title": "更多与被定罪的房地产大亨张美兰相关的房地产被冻结"
         },
         {
           "title": "Truong My Lan: Vietnamese billionaire sentenced to death for $44bn fraud",
@@ -933,17 +941,9 @@
           "zh_title": "各部委等待法院对“咖啡王”与妻子纠纷的裁决"
         },
         {
-          "title": "Vietnam Coffee King dismisses ex-wife’s talk of reunion as ‘trick’",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGtJTzlDWUQ2TnlGNGJOU0pPTExmZTFhQ0pESWtZcEZPNm03NUNSWXk4N0Nxb3UyX0lNV2pWVGxFRTFURTRXNDhGNjE5aWo3Z3dPUG4tRWJXZllkQmJmZ0RabkJJQjRpMm9jS0pLLTg5UW9IWGtrbmJvb0IzWHpsYnpKNlFuQWthNzdJZjRGTHBQUzhsdVMzbjJTaHVOa3NWRW9hcU1XZXBFbktSdTh0aVpCRVk5MTQx?oc=5",
-          "source": "VnExpress International",
-          "date": "2019-12-03",
-          "date_raw": "2019-12-03T08:00:00",
-          "zh_title": "越南咖啡大王驳斥前妻重聚的说法是“骗局”"
-        },
-        {
           "title": "Coffee King to manage Trung Nguyen empire after divorce, court says",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRXI0X3ZyYUdpemtEeXBWOWpmaC1rY084eWRjaEFhOVJaX1RrbDlRSjhPUDJncmdRYVQxM0hfNmdjNDF2bFVnb2p1NEl1XzZKa3RJanliMEtPd1UwR0xQeVByRlhVeWZiX2tGUXFPQ0tmYXNKeW8yNDV5T2hyUEdDa0FvejJZMUM0UHhvU1ZhUVk0a0ZtTkhKOGJHZnJSM1ZEVUtuX0VXS09tT3hFd0lUem5YVWw0VXN2anpXcXp4Z2h4T3hZU1E?oc=5",
-          "source": "VnExpress International",
+          "source": "e.vnexpress.net",
           "date": "2019-03-27",
           "date_raw": "2019-03-27T07:00:00",
           "zh_title": "法院称，咖啡王离婚后将管理中原帝国"
@@ -957,12 +957,20 @@
           "zh_title": "越南酝酿十年离婚案"
         },
         {
-          "title": "Vietnam’s three most newsworthy divorce settlements - Vietnam Investment Review",
+          "title": "Vietnamese coffee royalty’s divorce remains public spectacle",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1hWOEd5TU9UWENIOUFFMFpxZFFtQ0JwYXctd2hKSXVBUGszVldDSmE0YU5Md1ZVUExNV0d3S3ZmZDBZNzJMdkhEaUdNS2NtbEtQTHJ6OE1leUlBeHNzampfN1lvZlNvU1VJQ1Z5N2xnYjB1UWM0UnJCekpGOVpuY01nbDIxSFVjSUt2NkNRSzJqeVgtMU5Jd0JFWDFPSGZ5OW9qa2w3MWp5Nm5MM1RBZg?oc=5",
+          "source": "e.vnexpress.net",
+          "date": "2018-08-16",
+          "date_raw": "2018-08-16T07:00:00",
+          "zh_title": "越南咖啡皇室离婚仍然是公众关注的焦点"
+        },
+        {
+          "title": "Vietnam’s three most newsworthy divorce settlements",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMjdSeGpKc09oQXVDTzA2SDAya1BCNnlPdVQ5VTZySHdESVdzMmRKRm1QWXUtUVJnWUh0RGtDYTFUNnFPSDlSU3h3akszMnVwSnRYS1I3UjNHRnpzY1A2U3VVal9lbWloLUlmSWIyMHJSLXBScmhKNkRKeHNLeW1NbkpLQWhkdkk?oc=5",
-          "source": "Vietnam Investment Review - VIR",
+          "source": "vir.com.vn",
           "date": "2018-04-05",
           "date_raw": "2018-04-05T07:00:00",
-          "zh_title": "越南三项最具新闻价值的离婚协议 - 越南投资评论"
+          "zh_title": "越南三大最具新闻价值的离婚协议"
         }
       ]
     },
@@ -988,6 +996,14 @@
           "date": "2024-04-25",
           "date_raw": "2024-04-25T07:00:00",
           "zh_title": "越南软饮料大亨因4000万美元诈骗案被判入狱八年"
+        },
+        {
+          "title": "Beverage tycoon Tran Qui Thanh receives 8-year prison sentence for $41M fraud",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT0h3OGRkVjVVUUg5RkQ1VmQtNmtfMmUxdjNodURjdmdQQnZkMHhFOW9jYzdheThkN2xROHlfVnh4NXU1cG1USXpRMFR3UUttbXNNZXZQakt1TXllUWItYTJPc3p1a2hkN2FTWC1kb1kwWEtxY1hRMlVLZlBmNXBOcnNpLTBGSlMybDQtRm1qQnBQazBXZnRXdUNQOUdvWE5KX3pSWUdndXFjUnBLZHNiN1R5THVqZ0c5bEd4UzVfOGpVM2t6ZTBScjVNd3JPcDk4ZWxJ?oc=5",
+          "source": "e.vnexpress.net",
+          "date": "2024-04-24",
+          "date_raw": "2024-04-24T07:00:00",
+          "zh_title": "饮料大亨 Tran Qui Thanh 因诈骗 4100 万美元被判 8 年监禁"
         }
       ]
     },
@@ -1060,7 +1076,15 @@
           "source": "매일경제",
           "date": "2024-04-03",
           "date_raw": "2024-04-03T07:00:00",
-          "zh_title": "2020 年 1 月 19 日星期日，感觉格外寒冷。我记得那天下雨夹雪.."
+          "zh_title": "Sunday, January 19, 2020 is a day that felt exceptionally colder.我记得那天下雨夹雪.."
+        },
+        {
+          "title": "Funeral service of late Lotte founder held",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lOE9hVW5WcndRUWNraVd6SFRYeE5XajhGbWk2VnZpVlM2RkxTTWc5NEZJSzhvTlhiVlFNYVB4ckYyVjJIYXdQWEs1SlZtR2Y2NWdDc0Nn?oc=5",
+          "source": "The Korea Herald",
+          "date": "2020-01-22",
+          "date_raw": "2020-01-22T08:00:00",
+          "zh_title": "已故乐天创始人葬礼举行"
         },
         {
           "title": "Lotte Group founder Shin Kyuk-ho dies at age 99",
@@ -1085,14 +1109,6 @@
           "date": "2015-08-05",
           "date_raw": "2015-08-05T07:00:00",
           "zh_title": "韩国恶毒的家族争斗暴露了财阀的危险"
-        },
-        {
-          "title": "Shin Dong-Bin Net Worth",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRi1ac2EwNEFNeU5XdGtBV01oTnlTN19wYnN6a3ZPRG1uRTdqMGkyNFJiX0E3Qk5NN0ZPT241WmtzRi10Rk1OenlfSm5PYlJiZElqRlJpZk1fTjZESEFpYzJNUlp4NUpPaFpMbVVIc3B3MFR5WE9TalVmN2pfWlAwY2NIQ21WRWhSUXZn?oc=5",
-          "source": "Celebrity Net Worth",
-          "date": "2014-08-31",
-          "date_raw": "2014-08-31T04:17:59",
-          "zh_title": "申东彬净值"
         }
       ]
     },
@@ -1184,6 +1200,14 @@
           "zh_title": "结束默多克继任之争的交易内幕"
         },
         {
+          "title": "Rupert Murdoch's real-life 'Succession' battle just ended in a multibillion-dollar deal that keeps Fox News, Wall Street Journal conservative",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGF0QnJ4Vms4NGttWXh1Y1JycWJ5bTBnVmtMSk14YVFjckl4QnkxQWtaVUZhV2VDanBlZ3FWNmhVWXcxZktXa0xyTmdqd1lzTEtQWnc1TTl0NE1QcDhTclVUNnBOZzZreFNRcVI2bkMzenVvdzdESTlRTndIS1FvOW9TZm5LMEtyVUVvcmZsWTAxM1R6QXZYMEZZZXJoU194YndLZ3ljNC1SZw?oc=5",
+          "source": "Fortune",
+          "date": "2025-09-08",
+          "date_raw": "2025-09-08T07:00:00",
+          "zh_title": "鲁珀特·默多克现实生活中的“继承权”之争刚刚以数十亿美元的交易结束，这让福克斯新闻和华尔街日报保持保守"
+        },
+        {
           "title": "Murdoch family settles court fight over media empire's future - ABC News & Headlines",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMnF6M25ocE1NcDBaSG8xa1BJSG1Mell1ZW9lWXlzTHZVUFAxS3VwUW03ZFN1RFNBLUVFSDZTZFVtSE1TcGdmU2QwUDFlLUZqSllrN2FyaWJ1d01OSm10bUw5d3QzR0ZRT2VlQTRFbjBHVXJZZWxySGQ3MFlTX1lHa2UxTFF3UmlQbGMzVVg3YlpUV3BuQ2dJRFR1MVRBM0tF?oc=5",
           "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1192,20 +1216,12 @@
           "zh_title": "默多克家族就媒体帝国未来的法庭纠纷达成和解 - ABC News & Headlines"
         },
         {
-          "title": "Real-life 'Succession' ends: Lachlan Murdoch takes control and siblings take cash",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaVFGWVB6aFB2ZHZzTWdxeDJRdWVCdUZuZS1palVLbXBiVnJSaVNIVDBsQW9tY2gydkFDdVhaUm42V1VpckFYMzBvTWp2UUlTVmFIcWEyVnBTYmRyX1VDNUpTaUxsZEh6amJQYmxoTTQzZ1JOa3FjZU9mWkx0NHlzdTY1bEFHSzdnVTR3WkwtN1dNUGFwUmNIMFZwZ0FMNmprN1JPVFNKZFZtQk5qZkJjQjVlRHA2RG5VZkExR0h1aEhMVnpQQk1LSGNCdzlVRHM5bFlDNTFIenRkTG9mNTFsc2M2Y1k?oc=5",
-          "source": "Reuters",
-          "date": "2025-09-08",
-          "date_raw": "2025-09-08T07:00:00",
-          "zh_title": "现实生活中的“继承”结束：拉克兰·默多克接管控制权，兄弟姐妹拿走现金"
-        },
-        {
           "title": "Succession planning: unpacking the real life Murdoch family trust drama",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0RseHN3NTFkLWs1OTdaM21oSXNReEx3bW1TOVVPQVBsNi1Tc2dvSWtWU3VLTmdzNTRZT3ZaTk54Q1RLcUU2VDQtNHhwZ0pjTkwxRDd1Mjcwb0dYMkl0SktGMWthaFlnLVEyYWZHdjJxcE10elBtOXIxZFRpeWFMRkgzdXFBRl9tc09SQ3M1c3FkWlZtcTBMOXJmclhHZVhI?oc=5",
           "source": "Law Society Journal",
           "date": "2025-03-10",
           "date_raw": "2025-03-10T07:00:00",
-          "zh_title": "继任计划：揭秘现实生活中的默多克家族信托大戏"
+          "zh_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
         },
         {
           "title": "The future of Rupert Murdoch’s media empire could hinge on a legal effort in Nevada",
@@ -1233,17 +1249,17 @@
       },
       "articles": [
         {
-          "title": "The Shelly vs. Donald Sterling battle over Clippers unfolds in court",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZEZ1aW9yTGUwSTZCV203UlNobWtxa2t6ZE9Ud0Y2N1owLUdIakM3bEVRak56NU5UQWhBalc5TzdZT3djdEt2UzBNOWVmTGtTbVM3NXo2WXdwUU5CV2NaX2NYamRQT2hvdWJjOC12Mi1lMi1qaWdIcjV5LTR2NHZPX0dETlg4blVVWnoydVlLRWJTS3RTd18xbjBKUWRncFEwSFhaRXNvcGtjQlBYS0NaRDdPUV83Z2c?oc=5",
-          "source": "Los Angeles Daily News",
-          "date": "2014-07-07",
-          "date_raw": "2014-07-07T07:00:00",
-          "zh_title": "谢利与唐纳德·斯特林在快船队的比赛在法庭上展开"
+          "title": "Donald Sterling belligerent, combative during court testimony",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdW04TTJ3dS0yNVlEN1hXeG0zOExlMnNwaS01cWtuczRTN0RodlJ3anQ0bVZWYnVHM1g3cDFOUHhsbXF4UjNwUkQ4eGJjbk56ejk0SUtZYW1ZOGlhcjZTZFM1Yk5ybk9VTFBqYndrU3Z4RjJaTl9IR29kV25vYkRTcjVQVlQ1UURCNjlqTi1jVzhlV2NpNDNSdkQ2TUlHSFA1dGFTeU5iX29mN2xjSjh1cFNmTkp2OV9mTlFjMjZDeV8?oc=5",
+          "source": "The Washington Post",
+          "date": "2014-07-09",
+          "date_raw": "2014-07-09T07:00:00",
+          "zh_title": "唐纳德·斯特林在法庭作证时好斗、好斗"
         },
         {
           "title": "Shelly Sterling appears to have early edge in legal fight with Donald",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV0RfQ1IwVnhOZENjSEtMeEdBS0NIdzFiM01kX2twSi15czFab2dkMnBOYnd0S3FhaHJtNUtCV283Wkp6NVlWN3ZXcjM3QWczWmV6SEExLWJTUE5BdW45ME5wOFdEZDZTMmpNM0g4aGVsRWItU1hNNWxqc3g4Z0dJSWktQnp0MkdkNXFacHlUSzZIM3dndHc?oc=5",
-          "source": "latimes.com",
+          "source": "Los Angeles Times",
           "date": "2014-06-23",
           "date_raw": "2014-06-23T07:00:00",
           "zh_title": "雪莉·斯特林似乎在与唐纳德的法律斗争中占据了先机"
@@ -1254,7 +1270,7 @@
           "source": "ABC7 New York",
           "date": "2014-06-19",
           "date_raw": "2014-06-19T07:00:00",
-          "zh_title": "唐纳德·斯特林留下了敌意的信息"
+          "zh_title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
         },
         {
           "title": "Ballmer, Sterling trust strike $2B deal",
@@ -1265,12 +1281,12 @@
           "zh_title": "鲍尔默与斯特林信托达成 20 亿美元交易"
         },
         {
-          "title": "Experts Explain 'Mental Incapacitation' After Reports on Sterling's Mental State - ABC News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGY0QW5jLUdzanlmOVhzNWlqQzJVZWR1R2hxSHByTUoxa0lpVXNXT3FoYWlJUC1LZGEydlo5VnNkWGp5R20zajlCR0poR3ExQ1FrYTdpbXNhVE5LX3Q3c2IzZklpUm85OV9rd2dlRmpxZDdzT3gyVTJLeHNZTTV2ZTltOG94WHBaYmdOaUJTS2huOWFJNFBhMDMwcUhteXFhRWNvODc2bWhtMDQ1TGZFZW91WdIBuAFBVV95cUxNWFhobHNRRDRScTAxaFUtcmZzRFJOb2hQYkZ3emY4bEh1M3QxOUtFUFBIMEJpM2hOTFg0WnRseW1Jb3BPNU56SnJSY2pYNlVsUmVrMi13VDJNd0ZSeGNCalc4MlpJLVU2amhnQWF1OWlRLTQxT09sMjRxZTlpSGFHVVlLWjRMSU54UW92U05uNkxKZGZWelJ5Q2ZSM3MwWFEybFhxaGxvYXp3Smo5WDNNSGRiZkg3Q2x0?oc=5",
-          "source": "ABC News - Breaking News, Latest News and Videos",
+          "title": "Report: Donald Sterling diagnosed with Alzheimer's disease",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ0NPZ2ZTdTRDWFdkTnY1RTk1cXN6RlhhSjBZQlhqQWpwaGhIekFDZUZQQmFlSnI0R1VMRFJLVlJ1ZEF2X2MyQVQtMHc4d1A4anI2VFhOX3pfV1ZVM25VMGtCdk1aQzU4SzVHQkVIQkxVbm5DOU5RTndfY0x2b2IxT3l0TTQyLWpSSnIyeHdkano0N3FhR2c?oc=5",
+          "source": "Sports Illustrated",
           "date": "2014-05-30",
           "date_raw": "2014-05-30T07:00:00",
-          "zh_title": "斯特林精神状态报道后，专家解释“精神失能” - ABC News"
+          "zh_title": "报告：唐纳德·斯特林被诊断患有阿尔茨海默病"
         }
       ]
     },
@@ -1414,18 +1430,18 @@
         {
           "title": "Lady Gucci wins stunning fight over her mother’s estate",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNazBOWGJxLXBFM0hSaGVrZXM2Z0xxQU40anBLMVRSTWQzVVM2bnR0bFgzMUg0ajQ4dGpKUENWUWZmSnNjck5mTk9FaUtMLUVaWmltcGFEZzBJaU9QS1ZxRVBCalRTM1FNSHVyQ0doSUJ0SUtaMVdaWnZDS0pwVVBKX05TMkxzb1ppSy1qNFhn?oc=5",
-          "source": "hola.com",
+          "source": "HOLA",
           "date": "2026-06-16",
           "date_raw": "2026-06-16T07:00:00",
           "zh_title": "古驰女士在争夺母亲遗产的斗争中获胜"
         },
         {
-          "title": "The Outrageous True Story Behind the 'House of Gucci' Movie",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIbGx0QVo2Tk4yWkFlNzU4dUQyejdGX081QlpwcFdfak5RQmdsT3NnZm8xMTVqUVRjbG9tVTRHdmwzcHhGT004N1ZidzdLNnQ3RFRqTEtMVmFGd3djWks3SA?oc=5",
-          "source": "Time Magazine",
-          "date": "2021-11-24",
-          "date_raw": "2021-11-24T08:00:00",
-          "zh_title": "电影《古驰之家》背后令人震惊的真实故事"
+          "title": "These are the real people of ‘House of Gucci.’ Here’s how their stories compare to the movie",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNElackJYU25aUmRGSzRHRFNiYU1COEFZUEdOckk4bk82N09fbjl6MFpxYzNmYmR6VUdiSWs1MERLYy1TOUpVTm9wMGZWVmQ0RXkwcWZIR1ZRcDNUYkZ1V3dJd3lmcF9wSC13S2FZaHVXTG1XaW5BR1BTSG5OZ0Z3M19WSlNzaWNycnVueEtxLUFYdHd3MTI1Vm1Wd3hkczYwYXJndHl5aw?oc=5",
+          "source": "Los Angeles Times",
+          "date": "2021-11-26",
+          "date_raw": "2021-11-26T08:00:00",
+          "zh_title": "这些是“古驰之家”的真实人物。以下是他们的故事与电影的比较"
         },
         {
           "title": "The Twisted True Story Behind House of Gucci : See the Cast vs. the Real Life Characters",
@@ -1438,7 +1454,7 @@
         {
           "title": "The Gucci wife and the hitman: fashion's darkest tale",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcDlDM0RhdjdLZnFKWUx6YUNEb2M3YnRfbThRaWxHdFFiVWVkeEhlU05kOTNRaHJ3NDY2MzNNMm5pZkgzMlo5Vi1obVRpajUtQUhnaGZ3UDB1TGYyUXVfRlRDTUxPS1dwTG5iaFhQeS0ycGl2U2l5YUt1bnVnQzhRQzVZSEo2OE80QTdYbDdRdVFHeFZTZGpjeGE5OG96YTRD?oc=5",
-          "source": "The Guardian",
+          "source": "theguardian.com",
           "date": "2016-07-24",
           "date_raw": "2016-07-24T07:00:00",
           "zh_title": "Gucci 妻子与杀手：时尚界最黑暗的故事"
