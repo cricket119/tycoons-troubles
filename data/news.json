@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026年11月25日 10:56 UTC",
-  "total_articles": 101,
+  "generated_at": "2026年11月28日 09:51 UTC",
+  "total_articles": 93,
   "families": [
     {
       "family": {
@@ -18,6 +18,14 @@
         ]
       },
       "articles": [
+        {
+          "title": "Legal battle erupts over inheritance of former richest man in China",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNExzMUN3MjFLa0ZTeUhsVXJxR3pXWTkzM1h4V0ZOM0VuLWNSOVAyUk1ZeF9ibGlkeGVJajRad1lmTWZuMlBSSEVUSks3emNhTDdDdVd6ZDNCVnBBS1B6eVYxalpYN0FkRUd3UGJ5QTA0dmtTUjRUaHdMQmMwN1hfbXpiVWdvTGNZQ1hyVmxRLWg3YUdSQjhFclVIb0p4Q0ppWlJhaGVibEp0MW9DOHhURnVWeXl5dXlHV1daS3ZkZFdnTWdWeGdlRDJoSzNWbTE0dnc?oc=5",
+          "source": "Le Monde.fr",
+          "date": "2025-08-05",
+          "date_raw": "2025-08-05T07:00:00",
+          "zh_title": "Legal battle erupts over inheritance of former richest man in China"
+        },
         {
           "title": "Hong Kong court freezes US$1.8 billion HSBC account in Wahaha inheritance fight",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNmY2VlNqSHNOT0hpOE53bGVWR08xNVZfbVFxbWVFTXlBcndWTlJaMFFPYnlZbC1UcVdlVE9abnF3OEpYSVpMZExvbl9FUGlCak9XRlg4aXhoQlhxUmhZUkFPS2t5aGhQMkFWem9qNGhpWFJKTjg1ZlhWVXVEa3R2aTl1RGw0R1lzbnBYUVdET2FsNDV2Rl9JVXpmYTRpejlxSlVzR0tXUnhJemtUaGI4amxsRHRnSUVaOVV4MHpIU19OSnN4VUtpOVl1VjR5dGRsMFJ4QWVwNHFHR3hw?oc=5",
@@ -41,14 +49,6 @@
           "date": "2025-07-25",
           "date_raw": "2025-07-25T07:00:00",
           "zh_title": "Inheritance battle with half-siblings shakes Chinese heiress Kelly Zong’s leadership at Wahaha soft-drink empire"
-        },
-        {
-          "title": "Hangzhou govt intervenes in Wahaha heiress inheritance feud",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaG9JRVhtZkRoOV9JbEpiUlpORGplWWFDZFUxS3o0S1NDSzVFazhzTE9TcV9jMUZmWEluNjFSSGkzSWdhUXVsbXM4TXdmTGFZb1NhdDVadUtoSjdRT3NWZGpkNnRfWk5rUEthV3lrc2NLOUZOLU9XSzd5SzRuTVNpNFIzamIyX3NNY2F4V3Y1b1RwMnBNZ3A4MWRnTXZ5RDBKajBhNGN5M1VsWnpzU21jT0xzWQ?oc=5",
-          "source": "The Standard (HK)",
-          "date": "2025-07-17",
-          "date_raw": "2025-07-17T07:00:00",
-          "zh_title": "Hangzhou govt intervenes in Wahaha heiress inheritance feud"
         },
         {
           "title": "China Heiress Faces $2 Billion Wealth Dispute From Half-Siblings",
@@ -230,20 +230,20 @@
       },
       "articles": [
         {
-          "title": "Casino tycoon Stanley Ho’s 17 kids find their own paths to fix complex family ties",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUZaMkItUWx5TXRxeF9COHpjdzVodXktMUVTZEdydkFnbzlMQ09YZUFfSzRiRVJpbzM1bjdxZUU5ZUpnaGg0REdIZWNKdVlybnNENlVVUWhfZFhTY1ZJdUpweUExNlR2LU9IRDlnZHV4YmZ5Rno2TFNPV1hBWkp5S0lRM2lqLW9HZmJvMGdGal9SeW9BNFVDNWNQUFpXcWRKenFiem1XbjFEWFM3NUgtZmNlMzNuMmxDYWpwTWEzOVBiM0g5aDhsTTh3?oc=5",
-          "source": "Yahoo Finance Singapore",
-          "date": "2022-02-15",
-          "date_raw": "2022-02-15T08:00:00",
-          "zh_title": "Casino tycoon Stanley Ho’s 17 kids find their own paths to fix complex family ties"
-        },
-        {
           "title": "Macau casino tycoon Stanley Ho dies at 98",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeWMwdGV1UjBFZ2pQWUd2dVN3T1BUcWlNd0NOOU9Bc1VkRnNNTzdxN090VjdRbXNGMHRFU2huZGFHbDFXbkJvU1ppYW5qNWN5ck9ySEF3bXJwZWI4WFNOWjh6dTNyMzF0eUJjSEoyTXJWTXFmX2xMMW9CeXAyMDA4bzZjclBvdEh1V0dYQmIyVHlEeGM?oc=5",
           "source": "The Business Times",
           "date": "2020-05-26",
           "date_raw": "2020-05-26T07:00:00",
           "zh_title": "Macau casino tycoon Stanley Ho dies at 98"
+        },
+        {
+          "title": "Stanley Ho’s daughter mounts legal action over family trusts",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmliUHFoTTY2YXVXVFdSWFZIWExWaW9obVdNeE9NRU91ZW9Ca3NoRWVUQ2RRc1FMQzhFdjhVRjBWZXhyNFVGWmZTN1lib3ZtQ3pXMlU4c2MycnBWQkdvVUtPaTY3VUYyR1dNcjR5b2J4RXRBOTFQVndqRWZ0Wk9IVF9Sb0pLN3Q2TjhkOFFHVG9mOGVoMmJMeEh2anBqQ0tZTTdxQjllTU5nTVJkV3JSTnllZVBESlox0gG4AUFVX3lxTE4xMWhFTm1xbDlDcml1QV9Zb1ZtQ3p6V0pCaFN1SnMtZHYyQmdGUndZTmVCTmhudFVhdWdSck5TWVZacTQ3VVI0cjFrb2lFTXNrUXhOdnBPQ3ctazFVMm9hd1ZZZHNsWm1HSmJBZzhzeE9lSGR6eWJQUk05cFByNWhHM3NBOXlMTzlmNTNTUnBfNGxIc3FSQXhEdklsd0U1aUpBSHBTVE5LU3h2V0RfT0JOV0RPVXAtZG8?oc=5",
+          "source": "South China Morning Post",
+          "date": "2020-05-16",
+          "date_raw": "2020-05-16T07:00:00",
+          "zh_title": "Stanley Ho’s daughter mounts legal action over family trusts"
         },
         {
           "title": "97-Year-Old Tycoon's Kids Race to Revive His Casino Empire",
@@ -433,20 +433,20 @@
           "zh_title": "CDL looks to invest US$3.9b in Singapore, China, Japan to raise confidence"
         },
         {
-          "title": "Millennium Hotels positions Middle East as launchpad for 500-hotel vision",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONERwRm9Ja1hvX1dXd3p2dENNbzlvOFkwZG1Vb1ZVanZmNENxREhORW93TlNEanV5NUdlcm1TeWQwS0NGQ0wzX0pVTVQ1SkR6T2JCZUNxVm50U3owNXdCeHFWSENDdEItOGFDdGhtN0NOVnZWZks2SWRUV29RSllVSVdld2hpRW9WVG02NEVxZnNVVTUtVHJScExuNA?oc=5",
-          "source": "Gulf Business",
-          "date": "2026-02-06",
-          "date_raw": "2026-02-06T08:00:00",
-          "zh_title": "Millennium Hotels positions Middle East as launchpad for 500-hotel vision"
-        },
-        {
           "title": "The Succession Drama Inside Singapore’s Richest Family",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZWlNYTkwS2JJSE5YcU5UcEdkckNoRkhudlJTdnI2eHdndlZBb2dOX3YyRjBJS09nTWdlSlZPYXBITXhJZ2xMSEFRNWFKV1hKcGFPb3MtbUp5Vkh1aE51LUk0SlpRS1lDLVRTX0Q1eVVIdjhvV1J1N1dVczlZWmtxNndrdGh6SVZUX2hjX2psUzkwcWswMk1CLWR2SUY4cTVGYUpZM3IzQ3lQeGYzMWpTNXJRMXhNQ0pTZXBfcVg2SDc?oc=5",
-          "source": "Bloomberg.com",
+          "source": "Bloomberg",
           "date": "2025-04-15",
           "date_raw": "2025-04-15T07:00:00",
           "zh_title": "The Succession Drama Inside Singapore’s Richest Family"
+        },
+        {
+          "title": "CDL’s future under scrutiny; HPH Trust jumps after CK Hutchison sells port assets to US",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdzFNVkFyWS1uUEhlaXVoc2RSUURjREVOVXhRMU1YUGstTDVKV2EtZ3VEelp6NmNPbUdHaUlLb29lQy1qTUNDZXRKSjg2Z01DNFM1eUhVVWp4RE5MandFMlZOWko5LVZRMkJBdl8wS0ZQSVhfTEZqeXo2OUxoVkcxaWh4ckU0aXFGZWJCRmp6VHY3VHlWeXZyUngyeTZQT0FHX0N2LURtSU5rSENqaDlQM0pkVXpGVVcxbWx2RXBfRlhXU0U1TDVLMA?oc=5",
+          "source": "The Straits Times",
+          "date": "2025-03-10",
+          "date_raw": "2025-03-10T07:00:00",
+          "zh_title": "CDL’s future under scrutiny; HPH Trust jumps after CK Hutchison sells port assets to US"
         },
         {
           "title": "Dynasty: Who’s who in the Kwek family tree behind CDL, Hong Leong",
@@ -457,12 +457,12 @@
           "zh_title": "Dynasty: Who’s who in the Kwek family tree behind CDL, Hong Leong"
         },
         {
-          "title": "‘I want to get things done’: Billionaire Kwek Leng Beng on why it’s better to work hard and talk less",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ0pJUG53LVFMMy1hTUdvYm9kUlE2dm1FQ2hpREdoOHJ5R2VUeGpSMWx2VkV4NGZGRFQ1enF6eVYwbl9kUEdwR1pIZW5hNHpQcXZZVW5VSWNXUU5URE9ZODNHTGRud0Jqc3lLYmlkV2Z2VldIS3l5ekNuVG8tZjVTakpUMlRpdFd5UXNHZDcxRk00RWh4Q3dtYjhicmY3QTFFb0YyZ1FvOXZSNHBfZnVqZHlFVENUMmdZbzFjOWVKYXhURkphN1E?oc=5",
-          "source": "The Straits Times",
-          "date": "2023-11-05",
-          "date_raw": "2023-11-05T07:00:00",
-          "zh_title": "‘I want to get things done’: Billionaire Kwek Leng Beng on why it’s better to work hard and talk less"
+          "title": "Kwek / Quek family",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nZHhVRnhwVk9SV25nRUVJQXIxb3VxVXNpSkx0MXppSkdLUzF4eGsyV1N1eFR5dXVGcWdPLTU0X19uLTRyXzNkb25INzhUaVBySlpj?oc=5",
+          "source": "Forbes",
+          "date": "2016-07-27",
+          "date_raw": "2016-07-27T02:07:12",
+          "zh_title": "Kwek / Quek family"
         }
       ]
     },
@@ -514,20 +514,20 @@
           "zh_title": "Dynasty Behind UOB Ponders Future Governance – Report"
         },
         {
-          "title": "Remembering Wee Cho Yaw – banker, community leader, mentor",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGswWE1KX1cxTlpwZVAzTDM1TlU1eUFOWHlYU3lmZzVURG1oY1BwdmJwWGNuT00tVG9US2R4T0doUjNnVkdvTWFuTkRsNlYzRWdrWEtQc3BTVTJYVFl4ZC1iTHNkU2U5MmxLMWdkbHg0SHozaFp2RzdCWDRjd09ra0YwYlFIbHh2Q2tIMU95REN6QXJxUzEwUw?oc=5",
-          "source": "The Straits Times",
-          "date": "2024-02-07",
-          "date_raw": "2024-02-07T08:00:00",
-          "zh_title": "Remembering Wee Cho Yaw – banker, community leader, mentor"
-        },
-        {
           "title": "Wee Cho Yaw, billionaire was one of the last of Singapore's 20th century banking giants, dies at 95",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTnZlSU04MGpxa0p4REdKdEJIZXpTT3FoSENKeTlBdGtMOThPXzJxeU9vNW43Vlptdk1VQXhOY3FnaDh3VWRFdGoyNjVMVkpxelloVVM2Y29TeFpGSFZWbnl5ZVU0SGhVdG5wRHZCQ3pac1NPeDZQejU5bWIwNnBVNUhCZHJ1bHpkUVFtdjFlV1BtN0lGYTA2ZXlmTQ?oc=5",
           "source": "Fortune",
           "date": "2024-02-04",
           "date_raw": "2024-02-04T08:00:00",
           "zh_title": "Wee Cho Yaw, billionaire was one of the last of Singapore's 20th century banking giants, dies at 95"
+        },
+        {
+          "title": "Singapore Bank Billionaire's Son Says ‘Why Not’ Let an Outsider Succeed Him",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzNIcHBlaF9jWDVKXzVrNkZqeXI1S3dDMlVHMDFBWDktS05TNnFzeUx2V0xLaTI0c0NyLTctWVZPRXdVOVNiLXNqSmRmNmFqTnBndVpJZ05UOE1tbC1lUkU4Q2NveWJSdnkyTXFXMFBqajluRmRIXzlDdk9STjVNTXNJR2ZzNkxnM1lYY1I5QUIwZm1nUEpqb2xmOWM0dWxYWnl5UDNTb0xlWEp0Zk9CWXNn?oc=5",
+          "source": "Bloomberg.com",
+          "date": "2019-05-30",
+          "date_raw": "2019-05-30T07:00:00",
+          "zh_title": "Singapore Bank Billionaire's Son Says ‘Why Not’ Let an Outsider Succeed Him"
         },
         {
           "title": "PM Lee Hsien Loong at the 80th Anniversary Celebrations of the United Overseas Bank",
@@ -579,6 +579,14 @@
         ]
       },
       "articles": [
+        {
+          "title": "Feud erupts over inheritance of RM195b Indonesia empire",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXNBX3dPNjhHSk5YbXpUQ0k5emMwS0pqQXdQLV9Ib2pIYkhET1R3ak1hanFEUWthbnAtcmhyb25XVGh0N2pEVzlHVUNjNlljXzBuVnBzS1Y2QUtDcF9DOVlGTHpqdERzSTdRVktvNVcxN0F2dWlFZXZMUXp3NGVWQV94NlpkWVJqZExOOTZURHpfN09tVTAyMnFlNTl3THcy?oc=5",
+          "source": "The Malaysian Reserve",
+          "date": "2020-07-15",
+          "date_raw": "2020-07-15T07:00:00",
+          "zh_title": "Feud erupts over inheritance of RM195b Indonesia empire"
+        },
         {
           "title": "Sinar Mas Group: Freddy Widjaja's Claim Regarding Inheritance, Does Not Have A Legal Basis",
           "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9QeHhJQ3Vpa0JvWENLWHFmVHBGb0NESUJaMGJZR3VoY3lIMndOb2NqM1NrSGVnTjZwSDlnN1NHOGnSAT9BVV95cUxQUUxnOFAzUlFSenJ6UHNWbHV3al9VZERzeGpEUHFBblZYNy1aQVVWMUlVN0ZqTTlIRlV2N2o4NU0?oc=5",
@@ -760,6 +768,14 @@
       },
       "articles": [
         {
+          "title": "Can a billion-ringgit corporate feud dent Sarawak’s ruling coalition ahead of Dec 12 polls?",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVWhPYWVaeXExZGc2VWFEQ3kwTFEtcXhOUFgzMDhpcFRzRjM0cm1LRC1oUWFueEdVS0c4V3hscjVjdVpzQ2ZvZDlOSkFaMFM2TUJOdDNaUmZ0UWhfel8zRnVKb3h1UVQwODFtc2J0UlNpYldOVHZ3ODFjSVJoaEZVeGtlblY4SkJUMWdfUC1OY0RSNS1YdHVVcE1rV0ZIcTlDR3hPRDQ4c0k4Nm52SHdET3JNazlub09KWG44dnhn?oc=5",
+          "source": "The Straits Times",
+          "date": "2026-11-26",
+          "date_raw": "2026-11-26T21:00:00",
+          "zh_title": "Can a billion-ringgit corporate feud dent Sarawak’s ruling coalition ahead of Dec 12 polls?"
+        },
+        {
           "title": "On the board but frozen out: The Taib family feud tearing Sarawak construction giant apart",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZF8xSUs5eFhOdFFveXFNV1RmajFRREROUURNWS1YTWlVUllQeWJHaDZ3LVE2MnNYQ2xHVzJ1dkw3aXpQbXh0UGY1ZFNTUHNFQVI1MVNnWU1fWllpTmhOak1fRGtYSGFyWGxmaklJcjhmQUpEVUwwbkROSURoLU5MS1NvVGxzRVAxc05TM3VwSzdNQUgtbzR3bGppM2lnTElDRVF5T2FzMlJqTWw3bmduaEdVTGk4LWpWTEE4YlJ6NGZWVkJSa3p5Y0JLclQ3VjI2?oc=5",
           "source": "The Straits Times",
@@ -774,6 +790,14 @@
           "date": "2025-05-12",
           "date_raw": "2025-05-12T07:00:00",
           "zh_title": "Sarawak tightening grip on strategic assets held by CMSB"
+        },
+        {
+          "title": "Taib Mahmud-linked stocks unmoved by his death",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1FCU25MWFhENHFqdDZvZ0FUY2pseWlxYV9XWDcxLVU3cXhnejVkeTZkV3pfNUpXTVJzZXp2UmFELXh6NFZCa3Boem9NUnhNTm9DS2ZTQ0lqdTBGUHk1YUY3SHlBdTBMZUdIVUdiVGVYQTVlZXhKa0VkRkhhZ3E2V1pFSzE0Z2RHQTltRTVDMFBDczVqMG5faFdIc0MtZW9MZ0dONGZSOV81UW8?oc=5",
+          "source": "Free Malaysia Today",
+          "date": "2024-02-21",
+          "date_raw": "2024-02-21T08:00:00",
+          "zh_title": "Taib Mahmud-linked stocks unmoved by his death"
         }
       ]
     },
@@ -839,14 +863,6 @@
           "date": "2019-06-03",
           "date_raw": "2019-06-03T07:00:00",
           "zh_title": "Malaysian Tycoon Lee Shin Cheng Dies At 79"
-        },
-        {
-          "title": "Malaysia minister Yeo Bee Yin breaks her silence, expresses love for husband on Facebook",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHlIbkwwLWV3WWc1UE5oOFkxUFBKaUp3ZkVXTVlIbUJ3VG9KVzlBVFZ5RFRWSTNWNUY0MC01TGpHSjR4QjVrTGFkT1ZVYV9MYko1LXJpQ1BUMUQtQWJjRy1kZ2taTmprUS1RZmpHd1J1bzE5N2dCSXU3c1AzVlhqQmR5OTVHVk8yX3ZzT2kxU2l3ZXJ4Qm1ub0ZMRVFmc2xrQXN0cjdCNEhuZ0dOV0FSMVhlY3VaNWpSVGhZTExyMA?oc=5",
-          "source": "The Straits Times",
-          "date": "2019-03-29",
-          "date_raw": "2019-03-29T07:00:00",
-          "zh_title": "Malaysia minister Yeo Bee Yin breaks her silence, expresses love for husband on Facebook"
         }
       ]
     },
@@ -874,12 +890,12 @@
           "zh_title": "12 things I learned from the 2025 Public Bank AGM"
         },
         {
-          "title": "Family of late founder to 'refine' shareholding in Public Bank",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjlLdTBhazJGcDVESkZwWGtDSmdFc3hmTzd6SUZRMG83U0VSRTBaMzEtTWkzbncyaGJGclhSQlowMzE3NGY0TmhVXzNfZURxX2FzY0JvMlNJQTdEN29zWTE0Mm9sVGMyR185Mi1MeVo0UEpOUWk4eEJYdlFjYTA5ZFc5VmRhZnMwWnZuR3J4Y012enhJMW9UNThXbUhMMUNvYnhOWjhPLU9CNnlkUEHSAbMBQVVfeXFMTWhTaWtxbnNnNXEtaUx4X0NwcXh3V3VCU3JxUmpPZ01DbUlaMkw1VWpLRnNySnR3dkRWYlNpbVc5Ni1JeG1iMVNJN1NqZEhQY0R0cGY2TGVyWG9uaXdOSDlQd011R0M5Vm1JZnpnNDN5TmpfLVZycVY4Z25pc3NuZHEtdlZHZTJLRmpMX0tnWWt3MENKcnNVQWVCWFljQ3VocjcyZ0toanU1ZzVpeHY5eGtkVW8?oc=5",
-          "source": "NST Online",
-          "date": "2024-10-10",
-          "date_raw": "2024-10-10T07:00:00",
-          "zh_title": "Family of late founder to 'refine' shareholding in Public Bank"
+          "title": "What’s the game plan post-Ananda?",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVUszdXp0TTFCNFl3d2VhSTk0MDl1ZnJKZzZsTG5FWnlrQXczc1NYT1NWZDFiOUpHbWFKcGhrQXBjN0VXekhTODdSbUdFWThsQUpkZjV1Ym1NbjFCUjlqWkFKckJEc2l4QUFtajZsQ0JQb0UyQ2d0SzlDMDlHalNya1NUV09SUEFvTVo0ME52SQ?oc=5",
+          "source": "The Star",
+          "date": "2024-12-07",
+          "date_raw": "2024-12-07T08:00:00",
+          "zh_title": "What’s the game plan post-Ananda?"
         },
         {
           "title": "Cover Story: Future of Teh’s stake subject of speculation, but bank has solid foundation",
@@ -888,6 +904,14 @@
           "date": "2022-12-29",
           "date_raw": "2022-12-29T08:00:00",
           "zh_title": "Cover Story: Future of Teh’s stake subject of speculation, but bank has solid foundation"
+        },
+        {
+          "title": "Business as usual for Public Bank after Teh’s demise",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTXV0QjN6X3lQYnRUSjA3QS0zeTh4U3g0bGZTckVQRHRKeXdJaXI3ZE9LTkpUazJEUmtUd2JpMl9DVTJfY2tkclE5Q3l5eC02UkR5NEJkTWVZZG9WanQ2ZTRfdDFLWGlxZHJQS1pOa1pFNlZuLVBEWFRjRWZxWDdEREM3Yw?oc=5",
+          "source": "Focus Malaysia",
+          "date": "2022-12-13",
+          "date_raw": "2022-12-13T08:00:00",
+          "zh_title": "Business as usual for Public Bank after Teh’s demise"
         }
       ]
     },
@@ -907,12 +931,12 @@
       },
       "articles": [
         {
-          "title": "3 Anti-Money Laundering in the Asia-Pacific Region: An Overview - Anti-Money Laundering Laws and Regulations 2026",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLXE2UHlhVkpfeHF1TWRTa0F3S1ZHaUtEZUxqRW9IcEM2bXFkSFV1QkoxeDA2SlFTNUVVMTVCQmZZSHkwLWNaMGxqM0pMckxKazlNc2VQXzZ4YUFpQkt2Z1JDYXJVUTNSRWNLdUFyQ0k5ak9wY3c3VGprWl9YN1ZETm5oeEczLVN4Mlp5RUlQVEJPZFpyM09SWTh0NE9FRnpPaW9KaGFiYk9ESnlxY3hOU3Q4Yk43LWQ1WUZRUWZFbFBmcWxXTHZiNjN6dW1aSEZRUlpSOW9n?oc=5",
-          "source": "ICLG",
-          "date": "2026-05-05",
-          "date_raw": "2026-05-05T07:00:00",
-          "zh_title": "3 Anti-Money Laundering in the Asia-Pacific Region: An Overview - Anti-Money Laundering Laws and Regulations 2026"
+          "title": "Worldwide Monthly Roundup: China, Iran, Saudi Arabia, Singapore, and Vietnam",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXN5SnhqamgyZlpGN1I0RktoSE9XMmJ0NEF6VC16bnZ5NkVVRUp4UFVfbnhBd1dvY3dFY0pmZ1lqNUFkSVpsakVkM0J4cHJaNGdCY09qSHc3Q1JnXzJ0YWQ5WXA1VWtRSmpTTlZmbVA2WklDbS1uU1RjY2ljV012NkFBWUVaSW9PQjN5THdNQXZtdlY1ZlhkNFh4YUxOR2lWdFllSGtjMEVEXzF6YVZsVjhYTmM?oc=5",
+          "source": "Death Penalty Information Center",
+          "date": "2024-12-04",
+          "date_raw": "2024-12-04T08:00:00",
+          "zh_title": "Worldwide Monthly Roundup: China, Iran, Saudi Arabia, Singapore, and Vietnam"
         },
         {
           "title": "Truong My Lan: Vietnamese tycoon loses death row appeal over world's biggest bank fraud",
@@ -931,12 +955,12 @@
           "zh_title": "Vietnam court upholds death penalty for property tycoon over fraud scandal"
         },
         {
-          "title": "Vietnam sentences real estate tycoon to death in its largest-ever fraud case",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mSUFCcHRYZDE1OS16UnZmbkpQbk5nR3J0Ykw4VFdtQXhObGpGOXFiYXJMS1g4SlR5OGtrSmJwWThEeEdfVUxXMDY1aTY3Qmc4LU45Z2hZczA3Ums4RnM5WGh5SVF2UHlCYkx0TEVuaXlITjNUX1QxbVRyVQ?oc=5",
-          "source": "NPR",
-          "date": "2024-04-12",
-          "date_raw": "2024-04-12T07:00:00",
-          "zh_title": "Vietnam sentences real estate tycoon to death in its largest-ever fraud case"
+          "title": "The Billionaire Property Queen on Death Row in Vietnam",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeTJUWTAyZElhcld5cXFSMzhTZTdnZHpCVGpfbFBuOS1hTmJScFgza3FLa3YtZk40UW81aS1GangwRzlvYVkwcmljeEdGMGtwazlRMHFobTBDcHd4QWUxRFdCQTYwR2kyMjlQaHRZVlRHWV81amlVRWdCcE9oVm1LcUstNkJ6bXZMWjhsc0xOR0owUGdRN2gwemh4aGtvelZfUHBHNkN3V1RwVFBXZmdBdEFB?oc=5",
+          "source": "Bloomberg.com",
+          "date": "2024-10-17",
+          "date_raw": "2024-10-17T07:00:00",
+          "zh_title": "The Billionaire Property Queen on Death Row in Vietnam"
         },
         {
           "title": "Truong My Lan: Vietnamese billionaire sentenced to death for $44bn fraud",
@@ -976,7 +1000,7 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXFLMTd0b0lpQTFnOE9JWWNha3ZSX2tBR25PeDhuMEg0clJrd3FZdFBvdnFmWGRhd1NOMG15U0pseU00VzZTRkZtRmEtdW9CNHlORWZOVi1kRzBrc1FTYjJIT0l0djdJaThaT3dGeDVSWE94YkE5UjFrRTl3NkJNRGhYc0hQUFJnVlRQd2ZjZEpvSWNtZUE?oc=5",
           "source": "Comunicaffe International",
           "date": "2020-02-20",
-          "date_raw": "2020-02-20T08:00:00",
+          "date_raw": "2020-02-20T00:28:13",
           "zh_title": "Le Hoang Diep Thao, the Coffee Queen of Vietnam, exits the scene."
         },
         {
@@ -1084,14 +1108,6 @@
           "date": "2015-06-30",
           "date_raw": "2015-06-30T07:00:00",
           "zh_title": "The Father Who Couldn't Let Go"
-        },
-        {
-          "title": "Father Fights to Oust Daughter as President of Japan Furniture Chain",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjJlNi1fLTdzWWRCanZWWXp1SE9sbjdTWWVuZUhzMkFRaTJITXdFV1hWTTg2cUNYYWtjT3Z4LV9IX21iUlhUQm5lSFFjTnhsY2tjMkpkakFKLThvcTJOZmlzeE55ak9ndm9WenFiQnNqeUtGSzlLQWVWVldVNlBQdUwzak0yZVBoMWp4MVRFcWd1S3drRW0yMUZNdw?oc=5",
-          "source": "WSJ",
-          "date": "2015-03-19",
-          "date_raw": "2015-03-19T07:00:00",
-          "zh_title": "Father Fights to Oust Daughter as President of Japan Furniture Chain"
         }
       ]
     },
@@ -1127,6 +1143,14 @@
           "zh_title": "Lotte Group founder Shin Kyuk-ho dies at age 99"
         },
         {
+          "title": "Power Struggle at Korean Firm Lotte Shows Perils of Succession",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMi1DZEU0QUZQT0xBb3AzMzFNcmN2azNtbkxYMTFBUWJYZW8zdklwY0xsYlo3QU1zek1Fd3d3NElBWE1ULVdGOWl2a1c1bXItSzlYSUFCcmY2YWdMQlE5OHNNZFNqUEptQV85eHJqbzM0dENZWmYxVVdZY2JLbGdTRnhESm83WU5zek1R?oc=5",
+          "source": "WSJ",
+          "date": "2017-01-31",
+          "date_raw": "2017-01-31T10:03:37",
+          "zh_title": "Power Struggle at Korean Firm Lotte Shows Perils of Succession"
+        },
+        {
           "title": "Bad Blood: A look at Asia’s messiest family business feuds",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTkxNWDEwLUZTSmVZblZyaTZHSHY4U0JYRHMzd0pDbDVrTVZRRmdPMlh2S2RCNU1pMVhuQWNlc0F3MUdQVEVfeHZhNDZIU3VhdnJMVGM0V19mTVBJZUM5WFkzS21WWEpKT2lVXy1WN2lGV1VaclVvMXpWUlpaclRqYjFIOTJwSUdsTjV0OWw1cnlyVXE3NXgzUU8tSGhaU2tvQ3I5bkRodTlqSWFKOE10LVBQRnNmLUpzckVBVlBn?oc=5",
           "source": "CNBC",
@@ -1135,20 +1159,12 @@
           "zh_title": "Bad Blood: A look at Asia’s messiest family business feuds"
         },
         {
-          "title": "Power Struggle at Korean Firm Lotte Shows Perils of Succession",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMi1DZEU0QUZQT0xBb3AzMzFNcmN2azNtbkxYMTFBUWJYZW8zdklwY0xsYlo3QU1zek1Fd3d3NElBWE1ULVdGOWl2a1c1bXItSzlYSUFCcmY2YWdMQlE5OHNNZFNqUEptQV85eHJqbzM0dENZWmYxVVdZY2JLbGdTRnhESm83WU5zek1R?oc=5",
-          "source": "WSJ",
-          "date": "2015-08-07",
-          "date_raw": "2015-08-07T07:00:00",
-          "zh_title": "Power Struggle at Korean Firm Lotte Shows Perils of Succession"
-        },
-        {
-          "title": "Lotte family feud heats up",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzZZSHJ4bE9tOGN4MVlwcTV4OF8xZ2NXdnc1T0sxVU03elBZN3RZRnlId0UwSDRlMmlOY2RLWlRmV3RaU0tLUWRscG5mSE04LVFlS0oyamdwUFpsdkZwejFiRmY3TThsa1A5dEpNeFBRcWpyd3JZazJQcnQzOW52S2lTNFRRaE9Fcndz0gGQAUFVX3lxTE1iNjA1cTIwYU5SaHdPSGxGY2xjLWhFVUtHcXNob2lFbkc2QktHLTZaM2JHOVdKYWtscnYzdjNzU2VrSWszODlsTDlFc3NzLUNsR0xuaDd2LXhhdWpjMFVhYlFPWEJkRDdjQ0s5eEZqY2xtMU0yTl9TVi1MZVI1bllTOURpMklNcm9fMlNOUEhERg?oc=5",
+          "title": "Lotte succession war turns into family mudslinging",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmhncDY4azRNNlZzTHAxd25SS0gyZ2F4R0FDV0ZfejRXVFoxaXhWQm12eXVLLW52X3pwX1dlYXNURnNSaHhqV1RTVGpNREVMMmdVOHFpSy11RUJVYkp6RGVNTGxVVkZpeHU3TDl4ZkxoMVhNdEdYYTMwYnNJaTJUaGhFa3A1clcwOWZ0Q0VRSFJfaHY2cUxKRWVBREzSAaIBQVVfeXFMTWFfZmJ1UDBTUjM1SzF5Ny1vRGNwSGlBS0N3R3B0UFQ5WG1WeGttajFrLXJjMWtxWjEyRTFqUkpnYjFGanBiUmR0YkdkQlpSRU1xd1hoN0pNOFFxSXRhY1lGaWtRQ0VucFBTS2FsQmFBUlVUblFUWVFSaWNGc2FQM3NxMXVOa2lyS18zTlBidlpjTk1CVW1xTFhTZDljampwbmVn?oc=5",
           "source": "The Korea Times",
-          "date": "2015-07-30",
-          "date_raw": "2015-07-30T07:00:00",
-          "zh_title": "Lotte family feud heats up"
+          "date": "2015-07-31",
+          "date_raw": "2015-07-31T07:00:00",
+          "zh_title": "Lotte succession war turns into family mudslinging"
         }
       ]
     },
@@ -1242,19 +1258,19 @@
       "articles": [
         {
           "title": "Rupert Murdoch's 1999 Divorce Put the Empire Into a Trust His Ex-Wife Insisted On, With Her Three Children Holding Equal Votes. In 2024 He Tried to Rewrite It at 93, a Nevada Court Said No, and Last Year Her Three Kids Each Walked Away With $1.1 Billion",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQZmtNbFhVSVhzbi02Q1FPb3REZVFMY3Q3RVAycEJsTFA0dE41MGVaUG82enEzWERwZnZvMW9MNXlRYmgxZzhrUFBFaTNROGg2el9Wakx0Y28tYzhpelVLOHpOWjVUUDNIY0FFcDRsZldzaXdCSy16dzZfSzdOWThSR25CU0Rwa3hrWE90cE9kRkFwNDRtRlNiUlRJNkRTY3lZOGxzRFYwUUQxeG1oZWZyU1dLbWk1SWlUak1WWlNjMWZzblFETS12b2doQmo4b0NPdnphRmZBSmF2RnpBUzcwMmdJZUJxejd5VU5lcjJPcGtwZzZnQ0JIaElPUWRKMHQtTWl0MzZad1VfNkdNUTV1WHNIUXBnSUdGaDY3czdYanU2bGE5Slg5cDdBT2lncUZFbmo5MmFtUm9wcEdNQ0JkYnphQU1XRUJhRktNb29UMXlUdWNTSlo0S1JMTVNzdnBjMWc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNWV9aTV9mWjFQajRhMjhRcnlpd004eGNhN0pTVGxvMW9FajBCWXNVemFqVjNoVEtoWkZkR2ZPbkhKVXdpeEpobW9hQ3NvUkpsMlpXbi1ZV1hIT2puUDRfcE1WVlNWZENOb3ZZZG9HVzdOclFLcFlfRjlvbnhlcVFnOFVEcGdtdDJDdGlHeDFPWWdzeEpoSGtadGlBdmVQX2ptLWdTNktveERVV0xxVnZtTXYwaWtVSmltOE5KMkY3eU12YlhUUThWVjR4c3JkZ0R5WmtIZnNYU0tDUjREZG9ucHp6X2liVlU0RVNXWFJSNTRyT1UzLXpVekYxWERPZmhUNWNsX1BMQm84bkVpVmxaSWs0TVVQV1hobE1qQkFTWlpwS2haRWFXcENYc1N2azRhaG95UjJ3dWNERjlpVUVmOG4xd29GTldBVXJpNFI1Y3JxSWlyMzVhWjlQeDA1c2Z2Z0M2MA?oc=5",
           "source": "24/7 Wall St.",
-          "date": "2026-10-19",
-          "date_raw": "2026-10-19T07:00:00",
+          "date": "2026-10-25",
+          "date_raw": "2026-10-25T07:00:00",
           "zh_title": "Rupert Murdoch's 1999 Divorce Put the Empire Into a Trust His Ex-Wife Insisted On, With Her Three Children Holding Equal Votes. In 2024 He Tried to Rewrite It at 93, a Nevada Court Said No, and Last Year Her Three Kids Each Walked Away With $1.1 Billion"
         },
         {
-          "title": "Real-life 'Succession' ends: Lachlan Murdoch takes control and siblings take cash",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaVFGWVB6aFB2ZHZzTWdxeDJRdWVCdUZuZS1palVLbXBiVnJSaVNIVDBsQW9tY2gydkFDdVhaUm42V1VpckFYMzBvTWp2UUlTVmFIcWEyVnBTYmRyX1VDNUpTaUxsZEh6amJQYmxoTTQzZ1JOa3FjZU9mWkx0NHlzdTY1bEFHSzdnVTR3WkwtN1dNUGFwUmNIMFZwZ0FMNmprN1JPVFNKZFZtQk5qZkJjQjVlRHA2RG5VZkExR0h1aEhMVnpQQk1LSGNCdzlVRHM5bFlDNTFIenRkTG9mNTFsc2M2Y1k?oc=5",
-          "source": "Reuters",
+          "title": "Inside the Deal Ending the Murdoch Succession Fight (Published 2025)",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVF9lUmt1N0U2ektIYUt1TUllbWluTTFrNklURl9FTUtCTG9ZWm9Ud2dIRXdaR2FZZ3RMS3VSc295ZEZERjJFZTlUbWE2b0JFLUxsTFUxVjFDdlY4NXNfYkJkb0o2QVlEeERUY2tfNW9acVlZUzh6akpTR1ZtTGlsaFM4M0N2VmdxY0FIOHJib1BSQjJjcHc?oc=5",
+          "source": "The New York Times",
           "date": "2025-09-08",
           "date_raw": "2025-09-08T07:00:00",
-          "zh_title": "Real-life 'Succession' ends: Lachlan Murdoch takes control and siblings take cash"
+          "zh_title": "Inside the Deal Ending the Murdoch Succession Fight (Published 2025)"
         },
         {
           "title": "Succession planning: unpacking the real life Murdoch family trust drama",
@@ -1265,12 +1281,12 @@
           "zh_title": "Succession planning: unpacking the real life Murdoch family trust drama"
         },
         {
-          "title": "Rupert Murdoch Fails in Bid to Change Family Trust (Published 2024)",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMUlyMWdMSmNIMFZvNmVfYVdxZ3JfekI4ZGUtOGFfeTljQ2gtMWFWZjZNYVUyMElwTTVnNUtRV0xXejRpNDNHRG0zdlRsTmRrS0pJYmpSbGVHQzRWWVJkYlBieGhOOTZUZEo4UFN0V1NiOUdyZEF3cHd0bE5EN0VvckhfNGtqN3dseHpaWHVOaFpaVnd2?oc=5",
-          "source": "The New York Times",
-          "date": "2024-12-09",
-          "date_raw": "2024-12-09T08:00:00",
-          "zh_title": "Rupert Murdoch Fails in Bid to Change Family Trust (Published 2024)"
+          "title": "Murdoch's 'troublesome beneficiary' broke his silence — here's what he said - ABC News & Headlines",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbTVkcmhyVHRrWHNpbzVkeS16dlM0dUNsaWVfZVJJTUItTzVWNkhLZU4xZU8xWS13WGNQTmxIanJQMTJmNUlRdjVYd2htajhONF96c19FRmlLclpNa1pRNEdadXpJWDQyTkVwWXphVmpqTlFNNzhlVnR4UWhVMFBHN2dUMTk3a0RPc0xFYzUwNWJIX1hHWWxFeE5qN0ZmczBteGxGamtDQU1SXzAxQlJvSUZR?oc=5",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "date": "2025-02-16",
+          "date_raw": "2025-02-16T08:00:00",
+          "zh_title": "Murdoch's 'troublesome beneficiary' broke his silence — here's what he said - ABC News & Headlines"
         }
       ]
     },
@@ -1290,6 +1306,22 @@
       },
       "articles": [
         {
+          "title": "Ballmer, Sterling trust strike $2B deal",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BWGxWZHYtSmRxMWpWOEdZdVhLTnVVWk02RzdFMURvaDRmZy1IbE9hekVFTmpVREFzSzZNbUR4ZFVNWmplcEF0alBCRExSYUxVTkNYMDkyb1lvYnhoZDN6d0p4TWtTMWZYa3A4RVlXdFRCbFRyTnpQakdiTQ?oc=5",
+          "source": "ABC7 Bay Area",
+          "date": "2026-07-03",
+          "date_raw": "2026-07-03T01:43:08",
+          "zh_title": "Ballmer, Sterling trust strike $2B deal"
+        },
+        {
+          "title": "Donald Sterling says he won't sell",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SZzhnZ2tmNGdmbnBLQXJOUklNUE04VTl2LWZ4WlBiVnN5dTNIMFRKOFpTczh4VEVUemtyUEstaTZabHA1Y2llNlFlVU1hUXNEbzFYNkZzNmdrWW85ZC04WHRGa0V3MmRtbUZXWm4xVDIyLWlpZHhvc3VR?oc=5",
+          "source": "ABC7 Chicago",
+          "date": "2014-07-10",
+          "date_raw": "2014-07-10T07:00:00",
+          "zh_title": "Donald Sterling says he won't sell"
+        },
+        {
           "title": "Shelly Sterling appears to have early edge in legal fight with Donald",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV0RfQ1IwVnhOZENjSEtMeEdBS0NIdzFiM01kX2twSi15czFab2dkMnBOYnd0S3FhaHJtNUtCV283Wkp6NVlWN3ZXcjM3QWczWmV6SEExLWJTUE5BdW45ME5wOFdEZDZTMmpNM0g4aGVsRWItU1hNNWxqc3g4Z0dJSWktQnp0MkdkNXFacHlUSzZIM3dndHc?oc=5",
           "source": "Los Angeles Times",
@@ -1306,28 +1338,12 @@
           "zh_title": "Trial will decide D. Sterling's role"
         },
         {
-          "title": "Ballmer, Sterling trust strike $2B deal",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BWGxWZHYtSmRxMWpWOEdZdVhLTnVVWk02RzdFMURvaDRmZy1IbE9hekVFTmpVREFzSzZNbUR4ZFVNWmplcEF0alBCRExSYUxVTkNYMDkyb1lvYnhoZDN6d0p4TWtTMWZYa3A4RVlXdFRCbFRyTnpQakdiTQ?oc=5",
-          "source": "ABC7 Bay Area",
-          "date": "2014-05-30",
-          "date_raw": "2014-05-30T07:00:00",
-          "zh_title": "Ballmer, Sterling trust strike $2B deal"
-        },
-        {
           "title": "Donald Sterling files $1B lawsuit",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ral9vZDJCRlJ0TFBUYWhpdmk2SEs3cUpZa0hRM3dpcHlwLXVCb2hYYWdleElzS29UOVlYS2pRaE03STNKQ1QwVWl0SThtNHJ5VGFucWRmN0V3X01jY01DWWo2aGRqdUszWFU2LXF3ZWFZdw?oc=5",
           "source": "ABC7 New York",
           "date": "2014-05-30",
           "date_raw": "2014-05-30T07:00:00",
           "zh_title": "Donald Sterling files $1B lawsuit"
-        },
-        {
-          "title": "Experts Explain 'Mental Incapacitation' After Reports on Sterling's Mental State - ABC News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGY0QW5jLUdzanlmOVhzNWlqQzJVZWR1R2hxSHByTUoxa0lpVXNXT3FoYWlJUC1LZGEydlo5VnNkWGp5R20zajlCR0poR3ExQ1FrYTdpbXNhVE5LX3Q3c2IzZklpUm85OV9rd2dlRmpxZDdzT3gyVTJLeHNZTTV2ZTltOG94WHBaYmdOaUJTS2huOWFJNFBhMDMwcUhteXFhRWNvODc2bWhtMDQ1TGZFZW91WdIBuAFBVV95cUxNWFhobHNRRDRScTAxaFUtcmZzRFJOb2hQYkZ3emY4bEh1M3QxOUtFUFBIMEJpM2hOTFg0WnRseW1Jb3BPNU56SnJSY2pYNlVsUmVrMi13VDJNd0ZSeGNCalc4MlpJLVU2amhnQWF1OWlRLTQxT09sMjRxZTlpSGFHVVlLWjRMSU54UW92U05uNkxKZGZWelJ5Q2ZSM3MwWFEybFhxaGxvYXp3Smo5WDNNSGRiZkg3Q2x0?oc=5",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "date": "2014-05-30",
-          "date_raw": "2014-05-30T07:00:00",
-          "zh_title": "Experts Explain 'Mental Incapacitation' After Reports on Sterling's Mental State - ABC News"
         }
       ]
     },
@@ -1345,48 +1361,7 @@
           "雇私家侦探"
         ]
       },
-      "articles": [
-        {
-          "title": "More Money, More Problems: Inside The Bitter Family Feuds Of America’s Richest Billionaire Clans",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRkM0c3pIN19jZ1VEaFBJRWVxWXR6NVFMWkVhS0w5QkRUbk9tWFdTOWdncFlySzhuSnpFRTEtcGlSZXc2ZVM5ZDE4ZE9Ec0kzdnFONFNlYkx4Zml3UF9iQ2NPQTF5MHFUeTdjcU9fMU9SV1pfT2l2MVJycmRCR25fQTVjNkY4OTI3WjY5d0lKMExvWDZHMUhNbnNHNEdYakZVWHNHVDFVYjlvZUFpc0NaYmxmM2FIazJ2SGxxUV96R3FDY2pzcmVtMUtYSlFvTVVwZWh5Vnp4eUM4MzQ?oc=5",
-          "source": "Forbes",
-          "date": "2020-12-17",
-          "date_raw": "2020-12-17T08:00:00",
-          "zh_title": "More Money, More Problems: Inside The Bitter Family Feuds Of America’s Richest Billionaire Clans"
-        },
-        {
-          "title": "Frederick Koch, Who Spurned Family Business, Dies at 86 (Published 2020)",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LeFB3ejZMck5LWHhmV2c2T0lpVU52TGFONzc0WDA0VjdqZzlYbHNkNlg4STJwblJXdVdBZ1ZmMDV4bkJycnhHQ1FMQTl3ai0xTFNEZE1GcW93SjZMMHotZTFYMlpyeWtXZVB5Z0FEOWJBZDBHaUk0?oc=5",
-          "source": "The New York Times",
-          "date": "2020-02-13",
-          "date_raw": "2020-02-13T08:00:00",
-          "zh_title": "Frederick Koch, Who Spurned Family Business, Dies at 86 (Published 2020)"
-        },
-        {
-          "title": "Part-time Palm Beacher David Koch, business, political icon, dies at 79",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSEE3Y2ZOUlNvOGxoR3VZLWpmdGRQNExZN3ZrbXVlQlZJQzI3aE4wT04xbFN6SjJsaFRnWDNNN0Y2UkRaNXB2Y0JBcWdaMm5BOWZjbTR5dXA3ejRfNzNpRFBoWG9QZzhraG4zY0NabkswdE5hUGtKSWhWOWZZTFlhYjJDQW5feGk5SngzQzBMZDRlWF9hYmVvODBvWUZCRG1GTUZIMHdoVUlUbkJlN2E2Nmx1NnFxdGxaOTNSbDMwZENBOHVnVVUtR2JEZXltRkxBb2ltc2tNMXY?oc=5",
-          "source": "The Palm Beach Post",
-          "date": "2019-08-23",
-          "date_raw": "2019-08-23T07:00:00",
-          "zh_title": "Part-time Palm Beacher David Koch, business, political icon, dies at 79"
-        },
-        {
-          "title": "Before they attacked Obama, the Koch brothers almost destroyed each other. This is the untold story",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDJyUTBPM2xlS3RhRmRQUXZ1dlBicU83ZjYzb1Z3TFdNT2VnLTVzMDktSVFrUmVXdHZjekxlMllGb2VjckJmbERTN1V5YUVLSWQxYXlVV045SWlCamJ3blY5RnU1Ml9WYU9fVDhrZDdZNXV5OURMa2JzVlpLc1Bod1lfZm9oX1FqbUxaWE9rWGlIaUNf?oc=5",
-          "source": "Mother Jones",
-          "date": "2014-05-20",
-          "date_raw": "2014-05-20T07:00:00",
-          "zh_title": "Before they attacked Obama, the Koch brothers almost destroyed each other. This is the untold story"
-        },
-        {
-          "title": "The Koch Brothers’ Covert Ops",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03VExqY0kyR2NRY1RlQTA5bXFmMzFPTG82STJmWm1jenhRa1kxU2RqN1ltUXBhWEtZM3pLYTY5QjFuR1lzbmJSY0NqT205TmplUURhUFlzRTVvbm9MOHVUN2lXUGFjX2tpdzFyM3Y5TDQ?oc=5",
-          "source": "The New Yorker",
-          "date": "2010-08-23",
-          "date_raw": "2010-08-23T07:00:00",
-          "zh_title": "The Koch Brothers’ Covert Ops"
-        }
-      ]
+      "articles": []
     },
     {
       "family": {
@@ -1402,40 +1377,7 @@
           "家族悲剧连连"
         ]
       },
-      "articles": [
-        {
-          "title": "J. Paul Getty Net Worth",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaldvTVJpcnZYa0dqcDdZbnlfWXdWTGMxdk92YXpyajg5cWRmU2hzcjNJemFUSXotOUlQT3Y3akxkclh2QlRQUUtqZDRyc2dwM2VFWFVuX1gtbmhxNkdmZXNVQjdOdlBvV0J2SFVZSTB0Mi0xOVoySm1lZHVkbFNSRVJvZUttUkk1ZWo3OXkzZ0N6bDl1VmFiSVIwcmNXWl9WQWNZ?oc=5",
-          "source": "Celebrity Net Worth",
-          "date": "2026-08-10",
-          "date_raw": "2026-08-10T07:00:00",
-          "zh_title": "J. Paul Getty Net Worth"
-        },
-        {
-          "title": "The Getty Family’s Trust Issues",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUJCMWJ0aG16Sy1Qd0V4ckJFVUp5V0pxakphZWxGV2xTVVhVOFQyRDJVVE9LVXRqQ0lwTkFveGRaejJ5dGtFN2hKVUhWNTZfUmdKd1EwY09qcVVYX0Ytd1l6Z2hpcG5pVlgxYU9DVGFFdmZiNjlpaS1nU21ZNGtiSmpR?oc=5",
-          "source": "The New Yorker",
-          "date": "2023-01-16",
-          "date_raw": "2023-01-16T08:00:00",
-          "zh_title": "The Getty Family’s Trust Issues"
-        },
-        {
-          "title": "The Tragic Real-Life Story Of The Getty Family",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dJbkpYUC1JQktnNlBRRW54NVBIYWRZZXVZT00xSTV6ZWpwVlRNNUVvN3VVcmxydEVQX2pJckdjZElwNTYydFNidW9ZX3lHa2lrdzdLUUNyT0lkZnJjVzgzNnVHYkhFWjgyTG5iRDlhUFJ5cy1ralp3Q3kzMi1Md2cxdw?oc=5",
-          "source": "www.grunge.com",
-          "date": "2020-12-13",
-          "date_raw": "2020-12-13T08:00:00",
-          "zh_title": "The Tragic Real-Life Story Of The Getty Family"
-        },
-        {
-          "title": "The Getty Family: A Cautionary Tale of Oil, Adultery, And Death",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajZPdDY1N3ZSWVFkOS13eXNBdGtQcmh6YnBVa19GMm1mRDZJMkVJbkNSdnVfY2RwM29zSVFqVG9NVXNBa0poOVBBVVo3Z1hiQ0lGTjhiNDFoTkhhNHFPb2pSZlQ0OUtwazdkX3BDVWxpdHQ4LWZvZVM2b1ZHNU9wazFRSUpTeTM4THdWU01Db1liUk1ZZ2hLXzFic0ZGeldWUWpCMzB5ZkZxQTBOcHJZVkh0YTkxZw?oc=5",
-          "source": "Forbes",
-          "date": "2015-04-23",
-          "date_raw": "2015-04-23T07:00:00",
-          "zh_title": "The Getty Family: A Cautionary Tale of Oil, Adultery, And Death"
-        }
-      ]
+      "articles": []
     },
     {
       "family": {
@@ -1453,6 +1395,14 @@
       },
       "articles": [
         {
+          "title": "'Black widow' imprisoned for ordering hit on Gucci heir will receive $1.47M a year from his estate",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVp4NEV2V0gwRDFqYnJRamlhV19zY1FDNDVmdWxBTmRVNWp6Sm1EWnRuQVV0aU5IZFlPOXBqVUlNNkdtcEdURlZ3RENLRXY1RzR6d21ReHMybVlfVlRQOWJtRDdCY014MHBwSWxzRUxod283S3dadHlkc3J5aUlXc215d3JYNVZhM3BVanlVRUcyUQ?oc=5",
+          "source": "National Post",
+          "date": "2026-10-12",
+          "date_raw": "2026-10-12T07:00:00",
+          "zh_title": "'Black widow' imprisoned for ordering hit on Gucci heir will receive $1.47M a year from his estate"
+        },
+        {
           "title": "Lady Gucci wins stunning fight over her mother’s estate",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNazBOWGJxLXBFM0hSaGVrZXM2Z0xxQU40anBLMVRSTWQzVVM2bnR0bFgzMUg0ajQ4dGpKUENWUWZmSnNjck5mTk9FaUtMLUVaWmltcGFEZzBJaU9QS1ZxRVBCalRTM1FNSHVyQ0doSUJ0SUtaMVdaWnZDS0pwVVBKX05TMkxzb1ppSy1qNFhn?oc=5",
           "source": "HOLA",
@@ -1461,28 +1411,20 @@
           "zh_title": "Lady Gucci wins stunning fight over her mother’s estate"
         },
         {
-          "title": "Alessandra & Allegra Gucci • Net Worth, Family & Life Today",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hY0oyQzVnMlZyUldvLUNTRWRDZU1JazNzV0p0T1lTWUhoX3lQNXBKeFlGc0RsSGpsWWtJQWktWk5OS1NTcWZNQlMya1oyWWZMMnYtcEg3ZUpPT2dGQmhqOEN3?oc=5",
-          "source": "SuperYachtFan",
-          "date": "2024-06-27",
-          "date_raw": "2024-06-27T09:55:25",
-          "zh_title": "Alessandra & Allegra Gucci • Net Worth, Family & Life Today"
-        },
-        {
-          "title": "Before you watch House of Gucci, here's the real true crime story that inspired it - ABC News & Headlines",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTC1OWFdDa0l0cFBBV0s2Ul9LSXhXY0c5bmM4cVJnLTRlU05UNTMwSmplWlVFMUZrYnZQNlBZQ1FLcTdDbENCaVd5anBJdFZrNUJ5T1NBaWZTSG53SFVWcjdfSlA0VWJFbHpkQUVrOG50azhLQ1o4SkNLTkhqakhjUG9CMFpmeUluNTRzc0lYSDJUQ1R0aG5sMmF0VG1meFEyT3podlhn?oc=5",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "date": "2021-11-27",
-          "date_raw": "2021-11-27T08:00:00",
-          "zh_title": "Before you watch House of Gucci, here's the real true crime story that inspired it - ABC News & Headlines"
-        },
-        {
-          "title": "Where Is Patrizia Reggiani and Maurizio Gucci’s Daughter Alessandra Now?",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2dadENWam5wUzVINDNJdXIzUW1TQ3QxRUctdGVGTzAzeW9GblIyb2dIQ0E1NVpnVEZEUjhEa0JUVnVtSkFmdm5mSmJCT2Q5RV9VZm1PeXZ4X3hMNG1KQmo5bC1DdFB2ak91T2pkNzYwQlRXb3JYUTgyTTlibUljWktBQ2FNa2pxbDctYnB3bVV3eVUwVV9LZXluOGVRZHRmU0RQaFJWeXA?oc=5",
-          "source": "Newsweek",
+          "title": "The Outrageous True Story Behind the 'House of Gucci' Movie",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIbGx0QVo2Tk4yWkFlNzU4dUQyejdGX081QlpwcFdfak5RQmdsT3NnZm8xMTVqUVRjbG9tVTRHdmwzcHhGT004N1ZidzdLNnQ3RFRqTEtMVmFGd3djWks3SA?oc=5",
+          "source": "Time Magazine",
           "date": "2021-11-24",
           "date_raw": "2021-11-24T08:00:00",
-          "zh_title": "Where Is Patrizia Reggiani and Maurizio Gucci’s Daughter Alessandra Now?"
+          "zh_title": "The Outrageous True Story Behind the 'House of Gucci' Movie"
+        },
+        {
+          "title": "House of Gucci Cast vs. Real Life",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqRkVYN2k0NGZxc0MwNTBhWE9lRkJYaHFwdDBDSEtRQzVYeGhpRldUNm1RYmhjbWJmS1dfZlV1RWNQSDJRempkZnprVXhsaWU2eWZtRk50NGlnVFhUOG4xa0NhRUZRTE1ZclhYRjdQV3QyS2pNNC14SA?oc=5",
+          "source": "E! News",
+          "date": "2021-11-23",
+          "date_raw": "2021-11-23T08:00:00",
+          "zh_title": "House of Gucci Cast vs. Real Life"
         },
         {
           "title": "The Gucci wife and the hitman: fashion's darkest tale",
@@ -1525,14 +1467,6 @@
         ]
       },
       "articles": [
-        {
-          "title": "How Did A $14 Billion Hermès Fortune Disappear?",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbW9odmpvemozb0ZzZ1dDQjR6czRyQndBcTY0U2ZxRmpRN3RxYmhZYUZQU1F2X1VURy1uRjFuaUNfUm5YbU4zM3BObzQzWDN2eHBtTGhZMjRGNzNBM0ZuOXBkZG5lZHE5Q1hXNlRNSVZZVHl3eEZOTW83WHBQN2IydG5yczFrM0xQcWFQUmZvVGZ2WWtBV1ozTDF4c05xRGlTOTdXeDF4VnFQQQ?oc=5",
-          "source": "Celebrity Net Worth",
-          "date": "2024-11-04",
-          "date_raw": "2024-11-04T08:00:00",
-          "zh_title": "How Did A $14 Billion Hermès Fortune Disappear?"
-        },
         {
           "title": "Hermès Heir Says His $13 Billion Fortune Has Disappeared",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWxTbjlWRTkydVNaNGZjVy01RUx6UWlmRGNMVVA4TllJT2ZaclI4RDJCSDNKUHN4VVpIbTVXelA1Z3NNaTA5T1A5TWliNE1XVTgxdnJmZXBCSmZSeFdfU2wtcDRaV3YwQzlYMTY5aGtOdkRNM1Z1MzZ5R0NNN1RiMDlONkNzdGZlMTJj?oc=5",
